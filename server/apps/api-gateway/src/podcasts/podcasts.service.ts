@@ -1,26 +1,50 @@
-import { Injectable } from '@nestjs/common';
-import { CreatePodcastDto } from './dto/create-podcast.dto';
-import { UpdatePodcastDto } from './dto/update-podcast.dto';
+import { HttpService } from '@nestjs/axios';
+import { HttpException, HttpStatus, Injectable } from '@nestjs/common';
+import { catchError, firstValueFrom, map } from 'rxjs';
+import { AxiosError } from 'axios';
+
+interface PodcastQueryParams {
+  search?: string;
+  title?: string;
+  categoryName?: string;
+  page: number;
+  limit: number;
+}
 
 @Injectable()
 export class PodcastsService {
-  create(createPodcastDto: CreatePodcastDto) {
-    return 'This action adds a new podcast';
-  }
+  private readonly baseUrl = 'https://601f1754b5a0e9001706a292.mockapi.io';
 
-  findAll() {
-    return `This action returns all podcasts`;
-  }
+  constructor(private httpService: HttpService) {}
 
-  findOne(id: number) {
-    return `This action returns a #${id} podcast`;
-  }
+  async getPodcasts(params: PodcastQueryParams) {
+    const url = `${this.baseUrl}/podcasts`;
+    const queryParams: any = {
+      page: params.page,
+      limit: params.limit,
+    };
 
-  update(id: number, updatePodcastDto: UpdatePodcastDto) {
-    return `This action updates a #${id} podcast`;
-  }
+    if (params.search) {
+      queryParams.search = params.search;
+    }
 
-  remove(id: number) {
-    return `This action removes a #${id} podcast`;
+    if (params.title) {
+      queryParams.title = params.title;
+    }
+
+    if (params.categoryName) {
+      queryParams.categoryName = params.categoryName;
+    }
+
+    return firstValueFrom(
+      this.httpService.get(url, { params: queryParams }).pipe(map((response) => response.data),
+        catchError((error: AxiosError) => {
+          throw new HttpException(
+            'Failed to fetch podcasts',
+            HttpStatus.INTERNAL_SERVER_ERROR,
+          );
+        }),
+      ),
+    );
   }
 }

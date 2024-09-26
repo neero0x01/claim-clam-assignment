@@ -1,0 +1,664 @@
+[
+  {
+    "id": "40325177-02e5-4ecf-aec5-fc7345d3b83c",
+    "title": "The Secrets Hotline",
+    "images": {
+      "default": "https://img4.luminarypodcasts.com/v1/podcast/40325177-02e5-4ecf-aec5-fc7345d3b83c/default/h_500,w_500/image/s--YOMzvZ-B--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL0d3bnMwYW1RbzFpNmhlMTFDbkVqUnZUbTUzTm9ndlBjWmhzVTZ4czdLbmcvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9jOTUyNjRjOC02MjRmLTExZWEtOGE2ZC1iMzk1ZTU2YTI0YWEvaW1hZ2UvdXBsb2Fkc18yRjE1ODY1NTA1Mjc3NzQtaWNic3pzY2pyeC1hZWQ4NjgxMWI5MTMyZmY0NTdiYjcyOTM0NDRkZjM2ZF8yRlNlY3JldHNfSG90bGluZV9UaHVtYm5haWwuanBn.jpg",
+      "featured": "https://img4.luminarypodcasts.com/v1/podcast/40325177-02e5-4ecf-aec5-fc7345d3b83c/featured/h_430,w_720/image/s--TEXiyJIj--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjE4MTcxMDQ4ODgzODEtU2VjcmV0c19Ib3RsaW5lX0ZlYXR1cmVkLnBuZw==.png",
+      "thumbnail": "https://img4.luminarypodcasts.com/v1/podcast/40325177-02e5-4ecf-aec5-fc7345d3b83c/thumbnail/h_360,w_360/image/s--yD3hPQA9--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjE3OTgwMzk2MTE4NDYtU2VjcmV0c19Ib3RsaW5lX1RodW1ibmFpbC5wbmc=.png",
+      "wide": "https://img4.luminarypodcasts.com/v1/podcast/40325177-02e5-4ecf-aec5-fc7345d3b83c/wide/h_140,w_225/image/s--kmKs_M15--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjE4MDc3NjQ3MTAzMjAtU2VjcmV0c19Ib3RsaW5lX1dpZGUucG5n.png"
+    },
+    "isExclusive": true,
+    "publisherName": "Love and Radio",
+    "publisherId": "7c8226ef-de61-439a-9c51-9865d30ac2d9",
+    "mediaType": "podcast",
+    "description": "What’s your secret? Listen as anonymous callers from across the globe share what is hidden in their lives. It’s both a voyeuristic and affirming experience. \nLeave your own at 1-929-SECRETS (929-732-7387) or secretshotline.org. New episodes coming this November.",
+    "categoryId": "4fb6e6ed-d6ef-4d04-878b-40942df8d241",
+    "categoryName": "Performing Arts",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "61ef47bf-07ce-4c3e-b175-e846e8f5707f",
+    "title": "Guys We F****d",
+    "images": {
+      "default": "https://img3.luminarypodcasts.com/v1/podcast/61ef47bf-07ce-4c3e-b175-e846e8f5707f/default/h_500,w_500/image/s--mK3NezWE--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL0hwQXJxcVdjbi10bFJqN1c5QVc1eXhnUHI5aHEtMlRpZnREMkFfRDlPeUUvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy85ZDFjNDBjMi01NGJkLTExZTktYWE3MC0wZjk1MmYyMjNiNGEvaW1hZ2UvdXBsb2Fkc18yRjE1OTM0NjQyMzA4NTEtbXhvYjlubGl6by01NjEyMzIwNjEyODA5NzQ1YzM1YzgxM2NhYTQwMjAyY18yRkdXRi1UaWxlLTMwMDB4MzAwMC5qcGc=.jpg",
+      "featured": "https://img3.luminarypodcasts.com/v1/podcast/61ef47bf-07ce-4c3e-b175-e846e8f5707f/featured/h_430,w_720/image/s---Cde1KJZ--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1OTM0NjQ1ODczNjE0OTc4ODQtR1dGLUZlYXR1cmVkLTM2MDB4MjE1MC5qcGc=.jpg",
+      "thumbnail": "https://img3.luminarypodcasts.com/v1/podcast/61ef47bf-07ce-4c3e-b175-e846e8f5707f/thumbnail/h_360,w_360/image/s--Lr8mmfxn--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL0hwQXJxcVdjbi10bFJqN1c5QVc1eXhnUHI5aHEtMlRpZnREMkFfRDlPeUUvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy85ZDFjNDBjMi01NGJkLTExZTktYWE3MC0wZjk1MmYyMjNiNGEvaW1hZ2UvdXBsb2Fkc18yRjE1OTM0NjQyMzA4NTEtbXhvYjlubGl6by01NjEyMzIwNjEyODA5NzQ1YzM1YzgxM2NhYTQwMjAyY18yRkdXRi1UaWxlLTMwMDB4MzAwMC5qcGc=.jpg",
+      "wide": "https://img3.luminarypodcasts.com/v1/podcast/61ef47bf-07ce-4c3e-b175-e846e8f5707f/wide/h_140,w_225/image/s--ykyHeHTk--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1OTM0NjQ1NTUyNzA3NDU5NjEtR1dGX1dpZGUuanBn.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Corinne Fisher and Krystyna Hutchinson",
+    "publisherId": "d9a998a1-aeee-4db5-805c-0d9a4fd5b95a",
+    "mediaType": "podcast",
+    "description": "Hailed as changing the way society thinks about female sexuality, Guys We Fucked continues to pave the way toward a healthier outlook on sex. Hosted by stand-up comedians Corinne Fisher and Krystyna Hutchinson, this critically acclaimed podcast will be your new best friend. Tune in every Friday to hear discussions on the most taboo kinks, interviews with revolutionaries in sexual health, cultural icons, and, occasionally, guys they’ve fucked.",
+    "categoryId": "975dc81b-35f1-489b-ba6f-37b35945cc7d",
+    "categoryName": "Sexuality",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "d55de7eb-6f34-48e6-aee4-48703f8fb675",
+    "title": "Under The Skin with Russell Brand",
+    "images": {
+      "default": "https://img4.luminarypodcasts.com/v1/podcast/d55de7eb-6f34-48e6-aee4-48703f8fb675/default/h_500,w_500/image/s--f4J2hpzi--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL2RvOVVfYWNYUlIzai01TGs5eldIdHdWTlBfQS1MdG1lZ0Z5NktqSU5JencvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy82ZDc3NTU3Mi01MThhLTExZTktYmZlNy0yNzVlOTAxNDE5ZDAvaW1hZ2UvdXBsb2Fkc18yRjE1OTA2MDAyNDAzOTYtbnh5eG5mOHdsOWotOWRiYWU0OWI0ZTRjN2YxYWRiODdjN2UxOTEyN2IwOWJfMkZVbmRlciUyQnRoZSUyQnNraW4lMkJUaWxlJTJCMzAwMHgzMDAwLmpwZw==.jpg",
+      "featured": "https://img4.luminarypodcasts.com/v1/podcast/d55de7eb-6f34-48e6-aee4-48703f8fb675/featured/h_430,w_720/image/s--Mg0MUfzC--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1NzI1MzcyMDM4NTMwNzM2NzktZmVhdHVyZWQtdW5kZXJ0aGVza2luLmpwZw==.jpg",
+      "thumbnail": "https://img4.luminarypodcasts.com/v1/podcast/d55de7eb-6f34-48e6-aee4-48703f8fb675/thumbnail/h_360,w_360/image/s--qU81BSWe--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1OTA2MDAyNTgyNTY4NzIyMjItVW5kZXIgdGhlIHNraW4gVGlsZSAzMDAweDMwMDAuanBn.jpg",
+      "wide": "https://img4.luminarypodcasts.com/v1/podcast/d55de7eb-6f34-48e6-aee4-48703f8fb675/wide/h_140,w_225/image/s--7V_5rZ2Y--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1NzI1MzcxOTYzMjk2NTY1MDctMTU1NDUwMDk0MTQxNTk1NTU1OC1NZWRpdW1fdW5kZXJ0aGVza2luLmpwZw==.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Russell Brand",
+    "publisherId": "9573bcf2-ebc5-45f8-be4f-f51cfb0700df",
+    "mediaType": "podcast",
+    "description": "'Under The Skin' asks: what's beneath the surface - of people we admire, of the ideas that define our time, of the history we are told. Speaking with guests from the world of academia, popular culture and the arts, they'll help us to see the ulterior truth behind our constructed reality. And have a laugh.",
+    "categoryId": "e532a1c8-fb05-4db1-835c-856ea4e3f4cd",
+    "categoryName": "Religion & Spirituality",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "76c7322c-4956-484d-9f3d-17ceffd79cb5",
+    "title": "I AM RAPAPORT: STEREO PODCAST",
+    "images": {
+      "default": "https://img1.luminarypodcasts.com/v1/podcast/76c7322c-4956-484d-9f3d-17ceffd79cb5/default/h_500,w_500/image/s--z070gkb7--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL3pDcEFWT3pwUmppUTBKRXgtNXN3QmJtM0pyanV2Mm9lQkExU1JqUTlZV3MvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy8xODQzYWRkMC02MDUzLTExZTktOTU0Mi01ZjUzYTg1ZGFhOTUvaW1hZ2UvdXBsb2Fkc18yRjE1ODg5NzE4NjczMTEtcnNydTF4bW1wZi1mZTBkZDE5ZTY4YzM0ODc1NTBmMjA5MzE5NzhhMzVjYV8yRklBTVJBUEFQT1JUXzMwMDB4MzAwMC5qcGc=.jpg",
+      "featured": "https://img1.luminarypodcasts.com/v1/podcast/76c7322c-4956-484d-9f3d-17ceffd79cb5/featured/h_430,w_720/image/s--2PxwdCUU--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NTI3NTExMzMxODAyMTUtSSBhbSByYXBhcG9ydCBGZWF0dXJlZCAzNjAweDIxNTAuanBn.jpg",
+      "thumbnail": "https://img1.luminarypodcasts.com/v1/podcast/76c7322c-4956-484d-9f3d-17ceffd79cb5/thumbnail/h_360,w_360/image/s--9RE0R2NK--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODg5NzE5MzM2MjA1OTMyMjItSUFNUkFQQVBPUlRfMzAwMHgzMDAwLmpwZw==.jpg",
+      "wide": "https://img1.luminarypodcasts.com/v1/podcast/76c7322c-4956-484d-9f3d-17ceffd79cb5/wide/h_140,w_225/image/s--IiDwbUVX--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NTI3Mzg0OTIyOTc5ODctSSBhbSByYXBhcG9ydCBXaWRlIDMxNTB4MTk2MC5qcGc=.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Michael Rapaport",
+    "publisherId": "b9428ea8-937e-42a4-bcea-4a4cf20e09db",
+    "mediaType": "podcast",
+    "description": "Actor/Director Michael Rapaport shares his strong, funny & offensive points of view on life, sports, music, film & everything in between on the I AM RAPAPORT: STEREO PODCAST",
+    "categoryId": "1ee09c16-4aeb-4d8f-9f31-89a5d5289fc7",
+    "categoryName": "Sports & Recreation",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "4425e6c3-0117-4304-bb05-a994b05ee354",
+    "title": "The C-Word",
+    "images": {
+      "default": "https://img3.luminarypodcasts.com/v1/podcast/4425e6c3-0117-4304-bb05-a994b05ee354/default/h_500,w_500/image/s--GflBhTsL--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL2ZVTEd4NU5VOTNRRGR1TlRNdEhOREEwSnhzOXduQ3B6YnhEQlByYThWd28vcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9jOTc5MDJlOC00MTE5LTExZTktODlhNC0wYmE3ODQxOTI1NTMvaW1hZ2UvdXBsb2Fkc18yRjE1OTk2ODgwMDEwODctaW4wcWRsam1odGYtMWVjMWMyN2JiZTVkMDRlODdhYWY3OTRmNmE2YWJiZDFfMkZDLVdvcmQtVGFibG9pZC1TaG93LVRpbGVfMXgxLmpwZw==.jpg",
+      "featured": "https://img3.luminarypodcasts.com/v1/podcast/4425e6c3-0117-4304-bb05-a994b05ee354/featured/h_430,w_720/image/s--hVL1MUc5--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1OTk4NDkxMDE5NzA4ODA4NjQtQy1Xb3JkX0ZlYXR1cmVkXzcyMCAxbWIuanBn.jpg",
+      "thumbnail": "https://img3.luminarypodcasts.com/v1/podcast/4425e6c3-0117-4304-bb05-a994b05ee354/thumbnail/h_360,w_360/image/s--3tgUl0dY--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL2ZVTEd4NU5VOTNRRGR1TlRNdEhOREEwSnhzOXduQ3B6YnhEQlByYThWd28vcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9jOTc5MDJlOC00MTE5LTExZTktODlhNC0wYmE3ODQxOTI1NTMvaW1hZ2UvdXBsb2Fkc18yRjE1OTk2ODgwMDEwODctaW4wcWRsam1odGYtMWVjMWMyN2JiZTVkMDRlODdhYWY3OTRmNmE2YWJiZDFfMkZDLVdvcmQtVGFibG9pZC1TaG93LVRpbGVfMXgxLmpwZw==.jpg",
+      "wide": "https://img3.luminarypodcasts.com/v1/podcast/4425e6c3-0117-4304-bb05-a994b05ee354/wide/h_140,w_225/image/s--ENeZsEgX--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1OTk4NDkwODEyOTU3MDU1MDQtQy1Xb3JkX1RhYmxvaWRfV2lkZS5qcGc=.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Lena Dunham & Alissa Bennett",
+    "publisherId": "d15b0f6e-a82f-494e-a462-435a5030ebae",
+    "mediaType": "podcast",
+    "description": "With each episode, Lena Dunham and Alissa Bennett take you on a historical deep-dive into the life of a woman society dismissed by calling her mad, sad, or just plain bad. Join them for a rich, hilarious, and heartbreaking look into exactly what it means when we call a woman “crazy”.",
+    "categoryId": "bd178e02-1ae8-43e1-a2c8-c66ef8c1e7dd",
+    "categoryName": "History",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "13a59e33-974a-4ccd-a3a2-e17f8ac638f8",
+    "title": "The Trevor Noah Podcast",
+    "images": {
+      "default": "https://img2.luminarypodcasts.com/v1/podcast/13a59e33-974a-4ccd-a3a2-e17f8ac638f8/default/h_500,w_500/image/s--xlEDphE6--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL284YkdjMm1QSlBNa3pyWG5WNFBkRElFeXlEV3JaRGhJN211c3hPRndVd1EvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9lMTA0ODE5OC00MWVjLTExZTktYTBhZS0yNzZmZmVmZmMxNDkvaW1hZ2UvdXBsb2Fkc18yRjE1ODI3NTU2NzEwNjgtYW56ZGNicmU1ci1iMWM1ZWI4ODA1MDJlOWRmMzhjZGRhY2NlZTRkNjllYl8yRlRyZXZvck5vYWhQb2RjYXN0X0FwcFRpbGVfUjRWMV9TVF9XaW5zdG9uX3NxdWFyZTQlMkJfMjgxXzI5LnBuZw==.png",
+      "featured": "https://img2.luminarypodcasts.com/v1/podcast/13a59e33-974a-4ccd-a3a2-e17f8ac638f8/featured/h_430,w_720/image/s--QYgqLnjl--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1OTk4NDkyMTI0NjU1NjY1NjItVFROUF9GZWF0dXJlZC1BcnQgMW1iLmpwZw==.jpg",
+      "thumbnail": "https://img2.luminarypodcasts.com/v1/podcast/13a59e33-974a-4ccd-a3a2-e17f8ac638f8/thumbnail/h_360,w_360/image/s--l_Zk6VUl--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL284YkdjMm1QSlBNa3pyWG5WNFBkRElFeXlEV3JaRGhJN211c3hPRndVd1EvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9lMTA0ODE5OC00MWVjLTExZTktYTBhZS0yNzZmZmVmZmMxNDkvaW1hZ2UvdXBsb2Fkc18yRjE1ODI3NTU2NzEwNjgtYW56ZGNicmU1ci1iMWM1ZWI4ODA1MDJlOWRmMzhjZGRhY2NlZTRkNjllYl8yRlRyZXZvck5vYWhQb2RjYXN0X0FwcFRpbGVfUjRWMV9TVF9XaW5zdG9uX3NxdWFyZTQlMkJfMjgxXzI5LnBuZw==.png",
+      "wide": "https://img2.luminarypodcasts.com/v1/podcast/13a59e33-974a-4ccd-a3a2-e17f8ac638f8/wide/h_140,w_225/image/s--YKffiEyu--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODI4MTUwMjI5OTA3MTkwMzAtMjAwMjI2X1RyZXZvck5vYWhQb2RjYXN0X1Nob3dBcnQtV2lkZV80NXgyOC5qcGc=.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Trevor Noah",
+    "publisherId": "072672cd-aef9-46dc-837e-ba23f16862d7",
+    "mediaType": "podcast",
+    "description": "Trevor Noah and David Kibuuka explore unfamiliar angles, embrace differing viewpoints, and celebrate the contradictions that make living in this modern world bewildering. And exciting.",
+    "categoryId": "074d8bbe-3477-4ead-8078-2cc17cc6c37c",
+    "categoryName": "Comedy",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "ddef3227-882b-40a3-be76-fafd0d71424f",
+    "title": "Snap Judgment Presents: Spooked",
+    "images": {
+      "default": "https://img4.luminarypodcasts.com/v1/podcast/ddef3227-882b-40a3-be76-fafd0d71424f/default/h_500,w_500/image/s--5RFiky8w--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL2FQMzl4cFB4alBySU9oU2V2LU4xc1ZCTkZvNDVsNXJORmdqamhCb0NrdDAvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy82NzhkMTZhNi01ZmM3LTExZTktODU1MS04Yjg1ODVkMjgxMjMvaW1hZ2UvdXBsb2Fkc18yRjE1OTczNTc3MTYyNTEtemNjaXA2N2NqaGUtNjEyY2FhOGUwNjM3YjJlOGYzNTI2ZWZiOGViMjUwOGFfMkZTcG9va2VkLVNlYXNvbjUtMXgxLmpwZw==.jpg",
+      "featured": "https://img4.luminarypodcasts.com/v1/podcast/ddef3227-882b-40a3-be76-fafd0d71424f/featured/h_430,w_720/image/s--H6d-P_HS--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1OTczNTc1NDgwNDA4NjY4MTQtU3Bvb2tlZC1TZWFzb241LUZlYXR1cmVkLUFydC5qcGc=.jpg",
+      "thumbnail": "https://img4.luminarypodcasts.com/v1/podcast/ddef3227-882b-40a3-be76-fafd0d71424f/thumbnail/h_360,w_360/image/s--z-M915Aa--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL2FQMzl4cFB4alBySU9oU2V2LU4xc1ZCTkZvNDVsNXJORmdqamhCb0NrdDAvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy82NzhkMTZhNi01ZmM3LTExZTktODU1MS04Yjg1ODVkMjgxMjMvaW1hZ2UvdXBsb2Fkc18yRjE1OTczNTc3MTYyNTEtemNjaXA2N2NqaGUtNjEyY2FhOGUwNjM3YjJlOGYzNTI2ZWZiOGViMjUwOGFfMkZTcG9va2VkLVNlYXNvbjUtMXgxLmpwZw==.jpg",
+      "wide": "https://img4.luminarypodcasts.com/v1/podcast/ddef3227-882b-40a3-be76-fafd0d71424f/wide/h_140,w_225/image/s--IohXDXfU--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1OTczNTc1MTg1NjM4ODQ0MDUtU3Bvb2tlZC1TZWFzb241LVdpZGUuanBn.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Snap Judgment and WNYC Studios",
+    "publisherId": "935f429e-0288-4163-8a9d-7e09b8a3bf24",
+    "mediaType": "podcast",
+    "description": "Spooked features true-life supernatural stories, told firsthand by people who can barely believe it happened themselves. Be afraid. Created in the dark of night, by Snap Judgment and WNYC Studios.",
+    "categoryId": "4fb6e6ed-d6ef-4d04-878b-40942df8d241",
+    "categoryName": "Performing Arts",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "b52dbaee-2243-4230-ac20-8dc36ca6a453",
+    "title": "Hear to Slay",
+    "images": {
+      "default": "https://img3.luminarypodcasts.com/v1/podcast/b52dbaee-2243-4230-ac20-8dc36ca6a453/default/h_500,w_500/image/s--_CRJFRaY--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL2doSUxORHBxNkNveTd6TGNjV2dSYjVLRlVMcmlaTVRiWlZOMGJqNWtfTkEvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy8wZDNiNTRjNC02MmZiLTExZTktYjNiYS03MzIxODA2NzdmYjEvaW1hZ2UvdXBsb2Fkc18yRjE1OTMwMTc5NDc0NjQtZjhlajMxZmtxNS01NTM4MjQxNjEwYTgzMTllMjhhYTYxYWFmMDViZDFkZl8yRkhUU19UaWxlX1RodW1ibmFpbF8zMDAweDMwMDAuanBn.jpg",
+      "featured": "https://img3.luminarypodcasts.com/v1/podcast/b52dbaee-2243-4230-ac20-8dc36ca6a453/featured/h_430,w_720/image/s--Pz4rc7Ry--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1OTMwMTc5NzYwNDE5MzQwMTItSFRTX0ZlYXR1cmVkXzcyMC5qcGc=.jpg",
+      "thumbnail": "https://img3.luminarypodcasts.com/v1/podcast/b52dbaee-2243-4230-ac20-8dc36ca6a453/thumbnail/h_360,w_360/image/s--LtVOUPDJ--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1OTMwMTgwMDY4MzY1Mzk2ODUtSFRTX1RpbGVfVGh1bWJuYWlsXzMwMDB4MzAwMC5qcGc=.jpg",
+      "wide": "https://img3.luminarypodcasts.com/v1/podcast/b52dbaee-2243-4230-ac20-8dc36ca6a453/wide/h_140,w_225/image/s--OAYbLnfa--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1OTMwMTc5OTIyMTQ3MTY0NDktSFRTX1dpZGUuanBn.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Roxane Gay and Dr. Tressie McMillan Cottom",
+    "publisherId": "73e0a888-fd5c-483c-84f6-f6750ba34db6",
+    "mediaType": "podcast",
+    "description": "Hear to Slay is the Black feminist podcast of your dreams—compelling conversations curated in only the way Black women can. Roxane Gay and Tressie McMillan Cottom offer uncommonly incisive reads of the politics that shape the world we live in and the popular culture we consume. If you want to laugh as much as you want to be challenged, if you’re seriously smart but refuse to take yourself too seriously at all, come a little closer because we are here and hear, to slay.",
+    "categoryId": "422aee5c-5398-441a-845e-c96c40627c8f",
+    "categoryName": "Society & Culture",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "3cd826a7-d3d0-4354-a3d0-055f0eb1ac7a",
+    "title": "The Rewatchables 1999",
+    "images": {
+      "default": "https://img3.luminarypodcasts.com/v1/podcast/3cd826a7-d3d0-4354-a3d0-055f0eb1ac7a/default/h_500,w_500/image/s--x6ERuycD--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtLzRFTzE1UFN6MnpCSE5mX3pyX1RrajYwZGVwQlRIejlUWW1nbDQ2bFNmRzgvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy8xYTA5ZDE4ZS00YjVhLTExZTktYWU2YS1lYjhhYzQzZjRlMjIvaW1hZ2UvdXBsb2Fkc18yRjE1ODc3NjU2OTA1ODctdWExZzFlMjNsczktNzZjY2FkZDQ3Y2VjZjcxNjQ5MGE2Mzk4ZjMwY2FhZjJfMkZSZXdhdGNoYWJsZXMlMkJUaWxlJTJCMzAwMHgzMDAwLmpwZw==.jpg",
+      "featured": "https://img3.luminarypodcasts.com/v1/podcast/3cd826a7-d3d0-4354-a3d0-055f0eb1ac7a/featured/h_430,w_720/image/s--yTqcwhSU--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjU3MjQ1NTc5MDk0MjYtUmV3YXRjaGFibGVzIEZlYXR1cmVkIDM2MDB4MjE1MC5qcGc=.jpg",
+      "thumbnail": "https://img3.luminarypodcasts.com/v1/podcast/3cd826a7-d3d0-4354-a3d0-055f0eb1ac7a/thumbnail/h_360,w_360/image/s--f16grkEG--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjU3MDg1NzkzMjMxMTAtUmV3YXRjaGFibGVzIFRpbGUgMzAwMHgzMDAwLmpwZw==.jpg",
+      "wide": "https://img3.luminarypodcasts.com/v1/podcast/3cd826a7-d3d0-4354-a3d0-055f0eb1ac7a/wide/h_140,w_225/image/s--gQPrK00i--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjU3MTcyNTc3MTI3NjktUmV3YXRjaGFibGVzIFdpZGUgMzE1MHgxOTYwLmpwZw==.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "The Ringer",
+    "publisherId": "17d58a5d-26f4-49e4-ab53-9c6350e0524b",
+    "mediaType": "podcast",
+    "description": "Exclusively on Luminary. The Rewatchables 1999, featuring The Ringer’s Bill Simmons and a rotating cast from the Ringer universe, dissects the most iconic movies from 1999, an all-time great year in film. Each episode breaks down a different movie with highly specific categories, analyzing it from every possible angle. The categories include: Most Rewatchable Scene, Who Won the Movie?, Best Quote, Could This Movie Be Made Into a Netflix Series in 2019?, the Overacting Award, and many more. The series will cover American Pie, Office Space, The Matrix, and more classics from '99.",
+    "categoryId": "2f95cd51-713f-478b-9d93-71b1dcd71a8a",
+    "categoryName": "TV & Film",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "10c7f0c4-18a7-44e8-ab47-0ba1a54a4c09",
+    "title": "History on Fire",
+    "images": {
+      "default": "https://img1.luminarypodcasts.com/v1/podcast/10c7f0c4-18a7-44e8-ab47-0ba1a54a4c09/default/h_500,w_500/image/s--4TRu1HIX--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL19ETVlleW1ieFh6Q1ZEOEEzenpObzFpYTRtRmdqSmhpVHRDX3JXWVVhMjQvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9lYzY5YjJjMC02MTVkLTExZTktYmIyMi1iNzIxMzg4NTljOWUvaW1hZ2UvdXBsb2Fkc18yRjE1ODkzOTc3OTk5NTItNmUxaHF5NnYxN2ItMWE4OWE2YmRmYTdjZGQxMWFjNWVmMjM1YTc3Njc4YTRfMkZIaXN0b3J5b25maXJlX1NxdWFyZV8zMDAuanBn.jpg",
+      "featured": "https://img1.luminarypodcasts.com/v1/podcast/10c7f0c4-18a7-44e8-ab47-0ba1a54a4c09/featured/h_430,w_720/image/s--39t9YyFY--/aHR0cDovL2ltYWdlcy11cy1lYXN0LTIucHJvZC5sdW1pbmFyeS5hdWRpby5zMy5hbWF6b25hd3MuY29tL2ltYWdlcy11cy1lYXN0LTIucHJvZC5sdW1pbmFyeS5hdWRpby8xNTU1NjExMTI2OTM5NjMxMjQ4LUZlYXR1cmVfaGlzdG9yeW9uZmlyZS5qcGc=.jpg",
+      "thumbnail": "https://img1.luminarypodcasts.com/v1/podcast/10c7f0c4-18a7-44e8-ab47-0ba1a54a4c09/thumbnail/h_360,w_360/image/s---0suv0n0--/aHR0cDovL2ltYWdlcy11cy1lYXN0LTIucHJvZC5sdW1pbmFyeS5hdWRpby5zMy5hbWF6b25hd3MuY29tL2ltYWdlcy11cy1lYXN0LTIucHJvZC5sdW1pbmFyeS5hdWRpby8xNTU2MDUzNDM1NDczMTM1MDMwLWhpc3Rvcnkgb24gZmlyZS5wbmc=.png",
+      "wide": "https://img1.luminarypodcasts.com/v1/podcast/10c7f0c4-18a7-44e8-ab47-0ba1a54a4c09/wide/h_140,w_225/image/s--XLBAUXrb--/aHR0cDovL2ltYWdlcy11cy1lYXN0LTIucHJvZC5sdW1pbmFyeS5hdWRpby5zMy5hbWF6b25hd3MuY29tL2ltYWdlcy11cy1lYXN0LTIucHJvZC5sdW1pbmFyeS5hdWRpby8xNTU2MDUyODAyNDExNTkwNjI0LU1lZGl1bV9IaXN0b3J5b25maXJlLmpwZw==.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Daniele Bolelli",
+    "publisherId": "2a742904-e27f-4df5-8e82-3efd07cc47db",
+    "mediaType": "podcast",
+    "description": "Where history and epic collide--\"History on Fire\" is a podcast by author and university professor Daniele Bolelli.",
+    "categoryId": "bd178e02-1ae8-43e1-a2c8-c66ef8c1e7dd",
+    "categoryName": "History",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "657dc594-b883-4377-a4a5-b7484aa17f0d",
+    "title": "Food Actually",
+    "images": {
+      "default": "https://img3.luminarypodcasts.com/v1/podcast/657dc594-b883-4377-a4a5-b7484aa17f0d/default/h_500,w_500/image/s--JgvRfdnJ--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL3h1RElVRmVJYmZlTzVRRmhWQ1N6YnJuU2tXTkJCMlYySXo1NURuSzI3Zk0vcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy82OWMwOTgxNi1kMzNiLTExZTktYTFlNy00Zjc0OTE4OGFiNjYvaW1hZ2UvdXBsb2Fkc18yRjE1NzIzNjUyMTYyODUtaTdjc2Q2cGI3OXMtYzQxYjdmMzdmYzA5ZTZlMDE5YjFmN2NlODI1YjBjMzFfMkZGb29kJTJCQWN0dWFsbHklMkJUaWxlJTJCQXJ0JTJCRmluYWwuanBn.jpg",
+      "featured": "https://img3.luminarypodcasts.com/v1/podcast/657dc594-b883-4377-a4a5-b7484aa17f0d/featured/h_430,w_720/image/s--Mdb7LMUe--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODgwMTU4NzE2ODkwNjUyNjQtZm9vZGFjdHVhbGx5X2ZlYXR1cmVkXzcyMC5qcGc=.jpg",
+      "thumbnail": "https://img3.luminarypodcasts.com/v1/podcast/657dc594-b883-4377-a4a5-b7484aa17f0d/thumbnail/h_360,w_360/image/s--sV4MVt7A--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL3h1RElVRmVJYmZlTzVRRmhWQ1N6YnJuU2tXTkJCMlYySXo1NURuSzI3Zk0vcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy82OWMwOTgxNi1kMzNiLTExZTktYTFlNy00Zjc0OTE4OGFiNjYvaW1hZ2UvdXBsb2Fkc18yRjE1NzIzNjUyMTYyODUtaTdjc2Q2cGI3OXMtYzQxYjdmMzdmYzA5ZTZlMDE5YjFmN2NlODI1YjBjMzFfMkZGb29kJTJCQWN0dWFsbHklMkJUaWxlJTJCQXJ0JTJCRmluYWwuanBn.jpg",
+      "wide": "https://img3.luminarypodcasts.com/v1/podcast/657dc594-b883-4377-a4a5-b7484aa17f0d/wide/h_140,w_225/image/s--LkpPizC1--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODgxOTI2NTc0OTgwNTI3MjEtRm9vZEFjdHVhbGx5X1dpZGVfMzE1MHgxOTYwLmpwZw==.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Pushkin Industries",
+    "publisherId": "656b6dda-e311-4500-995f-da47b9a28aad",
+    "mediaType": "podcast",
+    "description": "We all think a lot about food.  When to get it, where to get it, how much of it to eat.  But do we really think about food?  Or do we accept what we’ve always been told about the “right” way to cook our pasta or the “best” wine to drink?  In Food Actually, cook and journalist Tamar Adler re-examines a wide range of conventional culinary wisdom.  She connects the feeding habits of goats to the history of the Dorito.  She travels to South Africa to meet the first black woman to make wine there, and she talks to friends like Samin Nosrat and Malcolm Gladwell.  Co-produced by the executive producer of Revisionist History, Food Actually will uncover what it is about food that actually, really and truly matters.",
+    "categoryId": "79e1a418-e6ed-48eb-ab95-51a6f0f202f8",
+    "categoryName": "Food",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "6426a152-d0b2-4a42-a147-bd1ebc3de157",
+    "title": "Sonic Boom: How Seattle Lost Its Team",
+    "images": {
+      "default": "https://img1.luminarypodcasts.com/v1/podcast/6426a152-d0b2-4a42-a147-bd1ebc3de157/default/h_500,w_500/image/s--ob7vvdDg--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL2E3dzZ6ZHZJQWlrcXVtQk9LNU9zZWxWTzlveVRSX3BldW0waEdtbEdHZDQvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy8xM2VhMjU2YS1kMzNiLTExZTktYmNjNi1kM2JjOTM4NzhlYTQvaW1hZ2UvdXBsb2Fkc18yRjE1ODc3NjMzNDE5OTAtOTVrbzZoYXBqcm8tMWM4MmY5Nzg1NTExMmRhNzM1MmY5YjBkMWYzNDIwYWZfMkZTb25pYyUyQkJvb20lMkJUaWxlJTJCMzAwMHgzMDAwLmpwZw==.jpg",
+      "featured": "https://img1.luminarypodcasts.com/v1/podcast/6426a152-d0b2-4a42-a147-bd1ebc3de157/featured/h_430,w_720/image/s--fhUUZ1Om--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjMzNzgzMzY0NjY1ODAtU29uaWMgQm9vbSBGZWF0dXJlZCAzNjAweDIxNTAuanBn.jpg",
+      "thumbnail": "https://img1.luminarypodcasts.com/v1/podcast/6426a152-d0b2-4a42-a147-bd1ebc3de157/thumbnail/h_360,w_360/image/s--gyBfTWIX--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjMzNTkxNzIyMzUzNDEtU29uaWMgQm9vbSBUaWxlIDMwMDB4MzAwMC5qcGc=.jpg",
+      "wide": "https://img1.luminarypodcasts.com/v1/podcast/6426a152-d0b2-4a42-a147-bd1ebc3de157/wide/h_140,w_225/image/s--136U-5sQ--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjMzNjc4NDQzMTY1NzctU29uaWMgQm9vbSBXaWRlIDMxNTB4MTk2MC5qcGc=.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "The Ringer",
+    "publisherId": "17d58a5d-26f4-49e4-ab53-9c6350e0524b",
+    "mediaType": "podcast",
+    "description": "For more than four decades, the Seattle SuperSonics were among the NBA’s most iconic franchises. But in 2008, they packed their bags for Oklahoma. ‘Sonic Boom’ tells a story of basketball and politics, wealth and power—revealing new truths about the NBA’s greatest heist.",
+    "categoryId": "",
+    "categoryName": "",
+    "hasFreeEpisodes": true,
+    "playSequence": "serial"
+  },
+  {
+    "id": "04617f69-c5f4-416e-81e2-fac0340cc666",
+    "title": "Smartr",
+    "images": {
+      "default": "https://img2.luminarypodcasts.com/v1/podcast/04617f69-c5f4-416e-81e2-fac0340cc666/default/h_500,w_500/image/s--dpV7WrlX--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL3h5SXhfV1ZKYl8wMEdqdDJnWmhPTktLZV9SYVVaTUZSVy12aTJlLWNPOFkvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9jYzc0ZjVlNi1iYTIzLTExZTktOGYxZS1kMzFjMzRiYTFmZmEvaW1hZ2UvdXBsb2Fkc18yRjE1ODc3NjIwMzA3NDEtdDYxdzhkeDJrNGktYTc5ZmE5N2QxNmYwZGM3ZjI2ZmUzZDliZTNhZTY3YmJfMkZTbWFydHIlMkJUaWxlJTJCMzAwMHgzMDAwLmpwZw==.jpg",
+      "featured": "https://img2.luminarypodcasts.com/v1/podcast/04617f69-c5f4-416e-81e2-fac0340cc666/featured/h_430,w_720/image/s--oA5gFebG--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjIwNTU0MTgwMDE0MjEtU21hcnRyIEZlYXR1cmVkIDM2MDB4MjE1MC5qcGc=.jpg",
+      "thumbnail": "https://img2.luminarypodcasts.com/v1/podcast/04617f69-c5f4-416e-81e2-fac0340cc666/thumbnail/h_360,w_360/image/s--zwwoPY3E--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjIwMzg4OTkxNzE1NzctU21hcnRyIFRpbGUgMzAwMHgzMDAwLmpwZw==.jpg",
+      "wide": "https://img2.luminarypodcasts.com/v1/podcast/04617f69-c5f4-416e-81e2-fac0340cc666/wide/h_140,w_225/image/s--6VH5LD92--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjIwNDU4NDI1Mzc2NTQtU21hcnRyIFdpZGUgMzE1MHgxOTYwLmpwZw==.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Team Coco",
+    "publisherId": "6cce3e2c-4f3d-44b5-91b0-4f02b32551b0",
+    "mediaType": "podcast",
+    "description": "Big Tech is at the height of its power, so why are so many people losing faith in Silicon Valley? We've lived through the 'techlash' -- it's time for tech to lash back. Join venture capital legend Noa Lukas as he profiles the monopolies of tomorrow and helps them nail down that billion-dollar valuation, addict a global userbase, or move past their recent human rights-related \"messaging difficulties.” Innovation is a zero sum game, and whether you're a hacker, a founder or a legacy player being left behind, Noa has the track record and the expertise you need to play Smartr.",
+    "categoryId": "074d8bbe-3477-4ead-8078-2cc17cc6c37c",
+    "categoryName": "Comedy",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "440a4fd4-b49f-4f84-9c01-c7bf0bb98f30",
+    "title": "Vocal Point with Martina McBride",
+    "images": {
+      "default": "https://img1.luminarypodcasts.com/v1/podcast/440a4fd4-b49f-4f84-9c01-c7bf0bb98f30/default/h_500,w_500/image/s--vfY7GzbX--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL0JKQV9tRmsyUzM4UF80SmhPNGhOM09LVlVvdDQwdUlnRWVEM2kzRHJFd1UvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9jNzI2ODhlNC1kMzNiLTExZTktYmUxZC0yZmE3MjUwMDRhNTMvaW1hZ2UvdXBsb2Fkc18yRjE1ODc3NjU5NjU5NDItMjg2cGM3Y3AyYWctMWE1Mzg1MjRiZTBhZTc1M2IyYTBmMjZhYmIwMWQxZjJfMkZWb2NhbCUyQlBvaW50JTJCVGlsZSUyQjMwMDB4MzAwMC5qcGc=.jpg",
+      "featured": "https://img1.luminarypodcasts.com/v1/podcast/440a4fd4-b49f-4f84-9c01-c7bf0bb98f30/featured/h_430,w_720/image/s--MONEARMq--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjYwMDUyNDA5NTIxOTQtVm9jYWwgUG9pbnQgRmVhdHVyZWQgMzYwMHgyMTUwLmpwZw==.jpg",
+      "thumbnail": "https://img1.luminarypodcasts.com/v1/podcast/440a4fd4-b49f-4f84-9c01-c7bf0bb98f30/thumbnail/h_360,w_360/image/s--C1inYIpH--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjU5OTgxMjczMTc3OTgtVm9jYWwgUG9pbnQgVGlsZSAzMDAweDMwMDAuanBn.jpg",
+      "wide": "https://img1.luminarypodcasts.com/v1/podcast/440a4fd4-b49f-4f84-9c01-c7bf0bb98f30/wide/h_140,w_225/image/s--oo6LHuff--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjU5OTA5OTk0Nzk0MzAtVm9jYWwgUG9pbnQgV2lkZSAzMTUweDE5NjAuanBn.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Believe Entertainment Group",
+    "publisherId": "7a78cf1a-e3ac-4d8e-953d-6619aa2fae79",
+    "mediaType": "podcast",
+    "description": "Country icon and lifestyle influencer Martina McBride — best known for igniting cultural conversations with her anthemic story-filled songs — turns the tables to interview her contemporaries, and share life and career experiences with them. Martina sits down for intimate chats with fellow recording artists, celebrity chefs, and a variety of notable guests passing through her hometown of Nashville.",
+    "categoryId": "c87f998e-9adb-406c-8782-737ec3121a41",
+    "categoryName": "Music",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "e3c3d4ea-f488-4c74-844d-b059cd5de0c8",
+    "title": "The Ten",
+    "images": {
+      "default": "https://img2.luminarypodcasts.com/v1/podcast/e3c3d4ea-f488-4c74-844d-b059cd5de0c8/default/h_500,w_500/image/s--0Ts4pEZ8--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL1JSRHdSNVE2aFlJV3dJaUFvazBXdkNyWG1wT2s4eWx0Rmd0dndCT19BdmcvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy8wMzEwZTVjMC00MWY2LTExZTktYWY0Ny1lM2EwZTlhMTgwNjkvaW1hZ2UvdXBsb2Fkc18yRjE1ODkzMDY3Nzk4MTYtd3JxNDQ4YzBnZC03MzFiMzlkZjU0YmM5NmQzYzc4ZTBhMDAyY2FkNGQ3Nl8yRlRoZVRlbl90aHVtYm5haWxfMzAwMHgzMDAwLmpwZw==.jpg",
+      "featured": "https://img2.luminarypodcasts.com/v1/podcast/e3c3d4ea-f488-4c74-844d-b059cd5de0c8/featured/h_430,w_720/image/s--bV_QQaTl--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODkzMDY4MjA5OTk2MTY3MTAtVGhlVGVuX0ZlYXR1cmVkXzM2MDB4MjE1MC5qcGc=.jpg",
+      "thumbnail": "https://img2.luminarypodcasts.com/v1/podcast/e3c3d4ea-f488-4c74-844d-b059cd5de0c8/thumbnail/h_360,w_360/image/s--xkT8m9oi--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODkzMDY4MDM4NjkyOTMyNTUtVGhlVGVuX3RodW1ibmFpbF8zMDAweDMwMDAuanBn.jpg",
+      "wide": "https://img2.luminarypodcasts.com/v1/podcast/e3c3d4ea-f488-4c74-844d-b059cd5de0c8/wide/h_140,w_225/image/s--o-riFx8K--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODkzMDY4MTE4MTE4MTU4OTAtVGhlVGVuX1dpZGVfMzE1MHgxOTYwLmpwZw==.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "The Advocate",
+    "publisherId": "c9d5c1a7-2415-4feb-b30b-95a6f4528293",
+    "mediaType": "podcast",
+    "description": "Exclusively on Luminary--new episodes every Thursday. From The Advocate, the world’s leading source of LGBTQ news, and hosted by Editor-in-Chief, Zach Stafford, The Ten is a weekly look at news and culture through a queer lens. Stafford, alongside reporters and contributors, brings queer voices to the forefront while diving deep into the stories that matter. Because if we are 10% of the population then we should be 10% of every story, right?",
+    "categoryId": "3c7189a1-ef28-4822-bf53-c11f93d52dc8",
+    "categoryName": "News & Politics",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "bd7c73b3-14bf-4b98-b2b0-1a955c9623d3",
+    "title": "Celeste & Her Best",
+    "images": {
+      "default": "https://img4.luminarypodcasts.com/v1/podcast/bd7c73b3-14bf-4b98-b2b0-1a955c9623d3/default/h_500,w_500/image/s--gbZACEBA--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL2dIOXhXX3dFV0dkbmk2Q0pPYXhFRUxmRGpwTmRvRXVwczI1T2JDckNDc1EvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9mZWRkYTViYS00MTE5LTExZTktOGY3MC05ZmZmZDEzM2E4MTYvaW1hZ2UvdXBsb2Fkc18yRjE1ODM4NTEwMzU4NTQtc3NuMGxhZHJuLTU1MGNkNDkzOGMyMTA2YjUyMTQ1ODdhOTJjMjc5MzgyXzJGMjAwMzA5X0NlbGVzdGVfU2hvd0FydF9SZXNpemVfTWVnYXBob25lXzIwMDB4MjAwMC5qcGc=.jpg",
+      "featured": "https://img4.luminarypodcasts.com/v1/podcast/bd7c73b3-14bf-4b98-b2b0-1a955c9623d3/featured/h_430,w_720/image/s--kdcmqSjl--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODM4NjE5OTQ4OTgwMjQ5MDctMjAwMzA5X0NlbGVzdGVfU2hvd0FydF9SZXNpemVfRmVhdHVyZWRfMTQ0MHg4NjAucG5n.png",
+      "thumbnail": "https://img4.luminarypodcasts.com/v1/podcast/bd7c73b3-14bf-4b98-b2b0-1a955c9623d3/thumbnail/h_360,w_360/image/s--UsPZSO8a--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL2dIOXhXX3dFV0dkbmk2Q0pPYXhFRUxmRGpwTmRvRXVwczI1T2JDckNDc1EvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9mZWRkYTViYS00MTE5LTExZTktOGY3MC05ZmZmZDEzM2E4MTYvaW1hZ2UvdXBsb2Fkc18yRjE1ODM4NTEwMzU4NTQtc3NuMGxhZHJuLTU1MGNkNDkzOGMyMTA2YjUyMTQ1ODdhOTJjMjc5MzgyXzJGMjAwMzA5X0NlbGVzdGVfU2hvd0FydF9SZXNpemVfTWVnYXBob25lXzIwMDB4MjAwMC5qcGc=.jpg",
+      "wide": "https://img4.luminarypodcasts.com/v1/podcast/bd7c73b3-14bf-4b98-b2b0-1a955c9623d3/wide/h_140,w_225/image/s--xTyP49Vs--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODM4NjE5ODA1ODcxNjczMTYtMjAwMzA5X0NlbGVzdGVfU2hvd0FydF9SZXNpemVfU2hvd1dpZGVfOTAweDU2MC5wbmc=.png"
+    },
+    "isExclusive": true,
+    "publisherName": "Celeste Barber",
+    "publisherId": "3b0fdcf0-5d35-434f-bb52-96e7fc3f54ef",
+    "mediaType": "podcast",
+    "description": "Aussie social media queen Celeste Barber and her BFF are back for another season of down-to-earth chats with some of the world’s most famous celebrities. Listen now for always hilarious, often relatable conversations.",
+    "categoryId": "074d8bbe-3477-4ead-8078-2cc17cc6c37c",
+    "categoryName": "Comedy",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "8607a31a-cab7-4c9f-9df8-b6110ba93b52",
+    "title": "Fiasco",
+    "images": {
+      "default": "https://img3.luminarypodcasts.com/v1/podcast/8607a31a-cab7-4c9f-9df8-b6110ba93b52/default/h_500,w_500/image/s--RIV9eW3n--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL1Z3ZDZlcm00Tk5OUjhramR4SjFNVmtTbi1BbU1ISWViXzlITHp1YVpOVlUvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy81MWY0YWMyNi00MTFhLTExZTktOTc4Ny1kZjUyODdiMmIzNjIvaW1hZ2UvdXBsb2Fkc18yRjE1OTY3MjkxNDg3OTEtdWdqcWphZGVkdS0zM2Y4MDJlNDIyMzZkOTcyMjg0MTc5ZmQzMzIwNmM1ZV8yRkZpYXNjb19TM19TaG93X0FydF8xeDEuanBn.jpg",
+      "featured": "https://img3.luminarypodcasts.com/v1/podcast/8607a31a-cab7-4c9f-9df8-b6110ba93b52/featured/h_430,w_720/image/s--byTEJ4H8--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1OTcwNzM4MDM0NjUxMTQ3MzUtZmVhdHVyZWQuanBn.jpg",
+      "thumbnail": "https://img3.luminarypodcasts.com/v1/podcast/8607a31a-cab7-4c9f-9df8-b6110ba93b52/thumbnail/h_360,w_360/image/s--HqqEYNO8--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL1Z3ZDZlcm00Tk5OUjhramR4SjFNVmtTbi1BbU1ISWViXzlITHp1YVpOVlUvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy81MWY0YWMyNi00MTFhLTExZTktOTc4Ny1kZjUyODdiMmIzNjIvaW1hZ2UvdXBsb2Fkc18yRjE1OTY3MjkxNDg3OTEtdWdqcWphZGVkdS0zM2Y4MDJlNDIyMzZkOTcyMjg0MTc5ZmQzMzIwNmM1ZV8yRkZpYXNjb19TM19TaG93X0FydF8xeDEuanBn.jpg",
+      "wide": "https://img3.luminarypodcasts.com/v1/podcast/8607a31a-cab7-4c9f-9df8-b6110ba93b52/wide/h_140,w_225/image/s--wz_KF6i9--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1OTY4MzE0NzYyNzMxNzM0NjYtRmlhc2NvX1MzX1dpZGVfNDV4MjguanBn.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Leon Neyfakh",
+    "publisherId": "131e3314-733f-40dd-aa2a-c06d4883d6fe",
+    "mediaType": "podcast",
+    "description": "Host Leon Neyfakh transports listeners into the day-to-day reality of our country’s most pivotal historical events, bringing to life the forgotten twists and turns of the past while shedding light on the present. \nSeason 3: The Battle for Boston tells the story of the movement to desegregate Boston’s public schools—and all the backlash that followed. \nSeason 2: Iran-Contra exposes a secret war, a secret deal, and a scandal that threatened to destroy Ronald Reagan’s presidency—until it didn’t. \nSeason 1: Bush v. Gore recounts what happened during the contested 2000 election between Al Gore and George W. Bush, and the extraordinary legal battle that unfolded in Florida.",
+    "categoryId": "3c7189a1-ef28-4822-bf53-c11f93d52dc8",
+    "categoryName": "News & Politics",
+    "hasFreeEpisodes": true,
+    "playSequence": "serial"
+  },
+  {
+    "id": "863b4d44-41c5-42db-97be-3fae13885da1",
+    "title": "Tabloid: The Making of Ivanka Trump",
+    "images": {
+      "default": "https://img1.luminarypodcasts.com/v1/podcast/863b4d44-41c5-42db-97be-3fae13885da1/default/h_500,w_500/image/s--Y37Nij7j--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL21KRl9GYnBSa08zd1JjZXlycmt3b3JXazNsdWszTUlid3A3UWJhanFDN1kvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy8wNTc5Y2JiMC00NDEyLTExZTktODMxZi1hMzZmZGI0YmNmZTQvaW1hZ2UvdXBsb2Fkc18yRjE1ODc3NjM0NDEwNjQtOWNqcnJxMnpzMGwtNGQ2NzE2MmU1N2IxZjY0NTk3MGIwNTg2YzE0MDdiZTlfMkZUYWJsb2lkJTJCVGlsZSUyQjMwMDB4MzAwMC5qcGc=.jpg",
+      "featured": "https://img1.luminarypodcasts.com/v1/podcast/863b4d44-41c5-42db-97be-3fae13885da1/featured/h_430,w_720/image/s--mSZ1c1YV--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjM0NzQ0NzM3OTQ5MjUtVGFibG9pZCBGZWF0dXJlZCAzNjAweDIxNTAuanBn.jpg",
+      "thumbnail": "https://img1.luminarypodcasts.com/v1/podcast/863b4d44-41c5-42db-97be-3fae13885da1/thumbnail/h_360,w_360/image/s--tAXmtHG7--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjM0NTg1MTE5MzcxMTAtVGFibG9pZCBUaWxlIDMwMDB4MzAwMC5qcGc=.jpg",
+      "wide": "https://img1.luminarypodcasts.com/v1/podcast/863b4d44-41c5-42db-97be-3fae13885da1/wide/h_140,w_225/image/s--Kdo9xc-Y--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjM0NjY3NzE3MjU5NTUtVGFibG9pZCBXaWRlIDMxNTB4MTk2MC5qcGc=.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "New York Magazine, in partnership with Transmitter Media",
+    "publisherId": "165d068c-a921-4b7f-ad54-0625dbdf330f",
+    "mediaType": "podcast",
+    "description": "Tabloid stories are not just guilty pleasures; they are revelatory ones, electrified by the tripwires of culture: race, class, gender, and politics. This season, a full-life inquiry into the making of Ivanka Trump, from child of very public 1980s divorce to teenage party girl and then her trophy-collecting father’s very favorite trophy. Hosted by Vanessa Grigoriadis.",
+    "categoryId": "3c7189a1-ef28-4822-bf53-c11f93d52dc8",
+    "categoryName": "News & Politics",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "8b2a12d6-49e8-4338-8780-5c6ec217b1ed",
+    "title": "Love and Radio",
+    "images": {
+      "default": "https://img1.luminarypodcasts.com/v1/podcast/8b2a12d6-49e8-4338-8780-5c6ec217b1ed/default/h_500,w_500/image/s--S_M28tok--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL2F5eGpudi16ZThuWGhLWUF5emFNc3Z3NGxsVk11amV6RS1FV3ZLTWJ4WjQvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy80ZWYyYzYxNC00OWJlLTExZTktYWI5ZC0zZjk1NDM5OTBlNDkvaW1hZ2UvdXBsb2Fkc18yRjE1ODc3NjY0NTI1ODItOGlmcnByMjR2Y3AtMjhlNDE1ZTU3MWJlYzllYTFmOTJmZDBmMzVlZDY4MDVfMkZMUl90aHVtYl8zNjAuanBn.jpg",
+      "featured": "https://img1.luminarypodcasts.com/v1/podcast/8b2a12d6-49e8-4338-8780-5c6ec217b1ed/featured/h_430,w_720/image/s--POE7dL_H--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE2MTE3NzEzNjY4MjQyNzU4MjItTFJfZmVhdHVyZWRfNzIwLnBuZw==.png",
+      "thumbnail": "https://img1.luminarypodcasts.com/v1/podcast/8b2a12d6-49e8-4338-8780-5c6ec217b1ed/thumbnail/h_360,w_360/image/s--E4V7k3PT--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjY0NzU3OTU0MTgyMDMtTFJfdGh1bWJfMzYwLmpwZw==.jpg",
+      "wide": "https://img1.luminarypodcasts.com/v1/podcast/8b2a12d6-49e8-4338-8780-5c6ec217b1ed/wide/h_140,w_225/image/s--ksZbomm1--/aHR0cDovL2ltYWdlcy11cy1lYXN0LTIucHJvZC5sdW1pbmFyeS5hdWRpby5zMy5hbWF6b25hd3MuY29tL2ltYWdlcy11cy1lYXN0LTIucHJvZC5sdW1pbmFyeS5hdWRpby8xNTU0NDkzODE5NTgxNzYxNDExLU1lZGl1bV9sci5qcGc=.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Love and Radio",
+    "publisherId": "7c8226ef-de61-439a-9c51-9865d30ac2d9",
+    "mediaType": "podcast",
+    "description": "Nick van der Kolk's Love and Radio features in-depth, otherworldly-produced interviews with an eclectic range of subjects, from the seedy to the sublime. Get inside the mind of a rogue taxidermist. Find out what it's like to experience a stroke firsthand. Or spend time with an artist who gives away her life savings every night. You've never heard anything like it before.",
+    "categoryId": "4fb6e6ed-d6ef-4d04-878b-40942df8d241",
+    "categoryName": "Performing Arts",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "7fdd7724-18e3-4506-8e3f-fd26b3c9407a",
+    "title": "Wisdom From The Top",
+    "images": {
+      "default": "https://img2.luminarypodcasts.com/v1/podcast/7fdd7724-18e3-4506-8e3f-fd26b3c9407a/default/h_500,w_500/image/s--QMdETh8C--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL0JCTW1vT3ZSN3dHdDFoSGNseVFIanRTQ0tSQThxNnBxeXQ1YlJRaVFTaEkvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy81N2RkMTZmZS00MWY3LTExZTktOGVmYy05M2MxYWQ1MjhhZWEvaW1hZ2UvdXBsb2Fkc18yRjE1ODkzODM0MTU0MTAtdjV5c3FuMjg5Z3ItOWQ1OTQ1YjI4ZjgzOTM0OWVhNmI4NjdhMThlNDZlNWFfMkZXaXNkb21Gcm9tVGhlVG9wX3RpbGVfMzAwMHgzMDAwLmpwZw==.jpg",
+      "featured": "https://img2.luminarypodcasts.com/v1/podcast/7fdd7724-18e3-4506-8e3f-fd26b3c9407a/featured/h_430,w_720/image/s--kbH9AMB1--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODk0MDA2NjM5OTMxMDc3NjktV2lzZG9tRnJvbVRoZVRvcF9mZWF0dXJlZF8zNjAweDIxNTAuanBn.jpg",
+      "thumbnail": "https://img2.luminarypodcasts.com/v1/podcast/7fdd7724-18e3-4506-8e3f-fd26b3c9407a/thumbnail/h_360,w_360/image/s--thOHlMHB--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL0JCTW1vT3ZSN3dHdDFoSGNseVFIanRTQ0tSQThxNnBxeXQ1YlJRaVFTaEkvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy81N2RkMTZmZS00MWY3LTExZTktOGVmYy05M2MxYWQ1MjhhZWEvaW1hZ2UvdXBsb2Fkc18yRjE1ODkzODM0MTU0MTAtdjV5c3FuMjg5Z3ItOWQ1OTQ1YjI4ZjgzOTM0OWVhNmI4NjdhMThlNDZlNWFfMkZXaXNkb21Gcm9tVGhlVG9wX3RpbGVfMzAwMHgzMDAwLmpwZw==.jpg",
+      "wide": "https://img2.luminarypodcasts.com/v1/podcast/7fdd7724-18e3-4506-8e3f-fd26b3c9407a/wide/h_140,w_225/image/s--0FXhZnkR--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODkzODM1MDk5OTEyOTYyOTAtV2lzZG9tRnJvbVRoZVRvcF93aWRlXzMxNTB4MTk2MC5wbmc=.png"
+    },
+    "isExclusive": true,
+    "publisherName": "Built-It Productions",
+    "publisherId": "33f1b0a4-7d8f-48c1-8a58-4f41a30a44cf",
+    "mediaType": "podcast",
+    "description": "From Guy Raz, Wisdom From The Top brings listeners into conversations with leaders helming today’s most powerful corporations and organizations, offering direct access to the secrets, mistakes, regrets, and wins that define modern leadership.",
+    "categoryId": "105da044-d77c-4673-9499-013d56c7aef6",
+    "categoryName": "Careers",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "708febba-17a8-4f4b-a81f-63b1a53e7135",
+    "title": "Break Stuff: The Story of Woodstock '99",
+    "images": {
+      "default": "https://img4.luminarypodcasts.com/v1/podcast/708febba-17a8-4f4b-a81f-63b1a53e7135/default/h_500,w_500/image/s--LULELLbF--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL281X2JsUy1mLVFuRHprS3lINlhYX0hzZENCSnV6cDE2bFVsS1FJUGlYZzAvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9iYjQzMTM2NC05ODYwLTExZTktYjA5NC0yZmJiMWQyNDAwM2IvaW1hZ2UvdXBsb2Fkc18yRjE1ODc3NDc1NTc4NTktdG9oMXRmZnZuMy0yOTY3YjhhZTZjZjQyMWFiMTk3ZjI0NjU1MjQyZDQzMV8yRkJyZWFrJTJCU3R1ZmYlMkJUaWxlJTJCMzAwMHgzMDAwLmpwZw==.jpg",
+      "featured": "https://img4.luminarypodcasts.com/v1/podcast/708febba-17a8-4f4b-a81f-63b1a53e7135/featured/h_430,w_720/image/s--enbZ5l0h--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NDc1ODgxNjA5Nzk4MTEtQnJlYWsgU3R1ZmYgRmVhdHVyZWQgMzYwMHgyMTUwLmpwZw==.jpg",
+      "thumbnail": "https://img4.luminarypodcasts.com/v1/podcast/708febba-17a8-4f4b-a81f-63b1a53e7135/thumbnail/h_360,w_360/image/s--W65UwoQj--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NDc2MDY1NDQ0ODg0ODItQnJlYWsgU3R1ZmYgVGlsZSAzMDAweDMwMDAuanBn.jpg",
+      "wide": "https://img4.luminarypodcasts.com/v1/podcast/708febba-17a8-4f4b-a81f-63b1a53e7135/wide/h_140,w_225/image/s--CTfy4KeW--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NDc1NzcyMDUxODIyNjEtQnJlYWsgU3R1ZmYgV2lkZSAzMTUweDE5NjAuanBn.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "The Ringer",
+    "publisherId": "17d58a5d-26f4-49e4-ab53-9c6350e0524b",
+    "mediaType": "podcast",
+    "description": "In 1999, a music festival took place in upstate New York that became a social experiment. There were riots, looting, and numerous assaults. And it was set to a soundtrack of the era’s most aggressive rock bands. Incredibly, it was the third iteration of Woodstock, a festival known for peace, love, and hippie idealism. But Woodstock ’99 revealed some hard truths behind the myths of the 1960s, and the danger that nostalgia can engender. Listen to the entire season here.",
+    "categoryId": "c87f998e-9adb-406c-8782-737ec3121a41",
+    "categoryName": "Music",
+    "hasFreeEpisodes": true,
+    "playSequence": "serial"
+  },
+  {
+    "id": "6f6452fe-6af0-4411-8ec7-1cde00622203",
+    "title": "Karamo",
+    "images": {
+      "default": "https://img4.luminarypodcasts.com/v1/podcast/6f6452fe-6af0-4411-8ec7-1cde00622203/default/h_500,w_500/image/s--n8KkF-P3--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL3hoa19rSm1OWVVHN3dUb2dNNUJnc0swejNxdXFCeXdzdWpOdGVIUW00am8vcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy8yYWU3OGYyYy00OWM2LTExZTktODNjNy01YjE0YTYzYzBlMzcvaW1hZ2UvdXBsb2Fkc18yRjE1ODg2OTMwMDE3NjQtemg0NjF0dHV4My1kMDYyZDlhZTYyNmMyOTk5M2VkMDNjZjQ5ZjAwMzE0ZF8yRkthcmFtb19TMl9zcS5qcGc=.jpg",
+      "featured": "https://img4.luminarypodcasts.com/v1/podcast/6f6452fe-6af0-4411-8ec7-1cde00622203/featured/h_430,w_720/image/s--pS14Tzy_--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODg2OTMxMzkxMTg1NTI4NTMtS2FyYW1vX1MyX2ZlYXR1cmVkXzcyMC5qcGc=.jpg",
+      "thumbnail": "https://img4.luminarypodcasts.com/v1/podcast/6f6452fe-6af0-4411-8ec7-1cde00622203/thumbnail/h_360,w_360/image/s--tzPA7k65--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODg3MDk3NDM3NjcwNTgwNjItS2FyYW1vX1MyX3RodW1iXzM2MC5wbmc=.png",
+      "wide": "https://img4.luminarypodcasts.com/v1/podcast/6f6452fe-6af0-4411-8ec7-1cde00622203/wide/h_140,w_225/image/s--Ys3lSO6K--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODk1NTM1MjYzMjc1MDU5NTYtS2FyYW1vX1MyX3dpZGUucG5n.png"
+    },
+    "isExclusive": true,
+    "publisherName": "Karamo Brown",
+    "publisherId": "72daea32-9d77-4a14-bfc0-87d6a1eec858",
+    "mediaType": "podcast",
+    "description": "“Queer Eye” star Karamo Brown goes deeper than deep on life’s thorniest issues with celebrity friends, fans, and followers. Listen for powerful doses of Karamo wisdom, including inspiring conversations to help you heal and grow.",
+    "categoryId": "0cba57ee-9d41-4512-aca7-3f7a21cc0bcd",
+    "categoryName": "Education",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "52005634-54fa-4068-979f-8be693807c4c",
+    "title": "Telephone Stories",
+    "images": {
+      "default": "https://img4.luminarypodcasts.com/v1/podcast/52005634-54fa-4068-979f-8be693807c4c/default/h_500,w_500/image/s--KjPHi-vF--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL1RNcVEwdXpTNFc2bmg5Snk2d2ZzMWVMWGw0UE1XZThac3Y2dlM2OGhmdkkvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9mMTZhNGM0YS00NDE1LTExZTktYWQxYy1hZjAzNzI3NjU4NmIvaW1hZ2UvdXBsb2Fkc18yRjE1ODc3NjM1NTUyMTYtNHN0Z3ZuMHJyMGstNGIzMGEyOTdhYjNkYmI1NzAwODc0MTRmMzlhZjc2NjFfMkZUU19TcXVhcmVfMzAwLmpwZw==.jpg",
+      "featured": "https://img4.luminarypodcasts.com/v1/podcast/52005634-54fa-4068-979f-8be693807c4c/featured/h_430,w_720/image/s--Z0nNHNWT--/aHR0cDovL2ltYWdlcy11cy1lYXN0LTIucHJvZC5sdW1pbmFyeS5hdWRpby5zMy5hbWF6b25hd3MuY29tL2ltYWdlcy11cy1lYXN0LTIucHJvZC5sdW1pbmFyeS5hdWRpby8xNTU2MDI2NzE0ODIzMjk2OTQwLUZlYXR1cmVfVGVsZXBob25lLmpwZw==.jpg",
+      "thumbnail": "https://img4.luminarypodcasts.com/v1/podcast/52005634-54fa-4068-979f-8be693807c4c/thumbnail/h_360,w_360/image/s--ukZ1kCIt--/aHR0cDovL2ltYWdlcy11cy1lYXN0LTIucHJvZC5sdW1pbmFyeS5hdWRpby5zMy5hbWF6b25hd3MuY29tL2ltYWdlcy11cy1lYXN0LTIucHJvZC5sdW1pbmFyeS5hdWRpby8xNTU2MDI2Njg1NTMyMTYwODA2LXRlbGVwaG9uZSBzdG9yaWVzIGZpbmFsIFNRLmpwZw==.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Ninth Planet Audio",
+    "publisherId": "78297768-65ba-46d1-a108-ba148663617a",
+    "mediaType": "podcast",
+    "description": "Examine the many faces of Michael Jackson with host Brandon Ogborn. What starts as a simple question of guilt or innocence quickly turns into a searching chronicle of race, fame and abuse. Drawing on extensive interviews and relying on much-needed humor, Ogborn and co-host Omar Crook interview Jackson’s defense attorneys, the investigators & prosecutors who pursued him, and the writers & tabloid journalists who followed the cases and ferreted out leads. Through those interviews and their ruminations, Ogborn and Crook wander the hall of mirrors that was Jackson’s life, painstakingly, sometimes painfully, reconstructing the complex narrative of an iconic and troubled performer haunted by allegations of criminal perversion.",
+    "categoryId": "c87f998e-9adb-406c-8782-737ec3121a41",
+    "categoryName": "Music",
+    "hasFreeEpisodes": true,
+    "playSequence": "serial"
+  },
+  {
+    "id": "74c7021f-3c2d-4099-9b54-4146305d96f0",
+    "title": "Stoop Talks",
+    "images": {
+      "default": "https://img4.luminarypodcasts.com/v1/podcast/74c7021f-3c2d-4099-9b54-4146305d96f0/default/h_500,w_500/image/s--NIrd1hZi--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL0ktSFhRdjJEeEZEZVpOX2lPcnJnbERuREhYV3VVeU13aWl5QXhjZFR6WEkvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9lZGZmNWI5NC00MWY1LTExZTktODUyZC00ZjdlNjNkNmZiN2MvaW1hZ2UvdXBsb2Fkc18yRjE1ODY1NDgwNDE3MDEtMHl6aDdwbm5pNzVnLWEzNzdjZWQ5NzMxNGE4OWQ0MTIyZmYwNTcyN2QwY2RmXzJGU3Rvb3BUYWxrc19UaHVtYm5haWwuanBn.jpg",
+      "featured": "https://img4.luminarypodcasts.com/v1/podcast/74c7021f-3c2d-4099-9b54-4146305d96f0/featured/h_430,w_720/image/s--FL7dUi5J--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODY5Njk0NjQzMzk1NDEzOTEtU3Rvb3BUYWxrc0ZlYXR1cmVkXzcyMHg0MzBfMnguanBn.jpg",
+      "thumbnail": "https://img4.luminarypodcasts.com/v1/podcast/74c7021f-3c2d-4099-9b54-4146305d96f0/thumbnail/h_360,w_360/image/s--wujCM_a5--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODY1NDgxNjUwMTI3Mzg4NzItU3Rvb3BUYWxrc19UaHVtYm5haWwuanBn.jpg",
+      "wide": "https://img4.luminarypodcasts.com/v1/podcast/74c7021f-3c2d-4099-9b54-4146305d96f0/wide/h_140,w_225/image/s--dH8RyFsh--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODY5Njk0NDE4ODQ2MDk2MzAtU3Rvb3BUYWxrc1dpZGVfMjI1eDE0MF8yeC5qcGc=.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Hana Baba and Leila Day",
+    "publisherId": "2c573795-ffec-428a-803d-6da43fa90a27",
+    "mediaType": "podcast",
+    "description": "Co-hosts Leila Day and Hana Baba carve out a place for broad-minded conversations that embody the black diaspora. Stoop Talks examines questions that may not have answers, but inspire deeper conversations about the complexities of defining blackness.",
+    "categoryId": "422aee5c-5398-441a-845e-c96c40627c8f",
+    "categoryName": "Society & Culture",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "bd37ccac-cea9-4c80-b5fe-c55a5f3d177d",
+    "title": "Hyper-Thetical with Kerry Bishé",
+    "images": {
+      "default": "https://img2.luminarypodcasts.com/v1/podcast/bd37ccac-cea9-4c80-b5fe-c55a5f3d177d/default/h_500,w_500/image/s--ISaEzo2y--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL3NGRGFMZFl6Qk03S3FFc20xVDhpTzc0RU5xMmlpdm9pU0w2RElGRzlmYXMvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9jZDQwYmU5Ni00NDEzLTExZTktODlhOS0yYjE0YTYwMmQ0YzYvaW1hZ2UvdXBsb2Fkc18yRjE1ODc3NTI2Njg4NDgtOWNyNnJuMjViZmgtMDM1YWM4NGRhNTA0MWI5YmVjYzdmZmVlMjQ0M2E1YTVfMkZIeXBlci10aGV0aWNhbCUyQlRpbGUlMkIzMDAweDMwMDAuanBn.jpg",
+      "featured": "https://img2.luminarypodcasts.com/v1/podcast/bd37ccac-cea9-4c80-b5fe-c55a5f3d177d/featured/h_430,w_720/image/s--AXbNIqK3--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NTI2NTU3Mjg5MzkyMjAtSHlwZXItdGhldGljYWwgRmVhdHVyZWQgMzYwMHgyMTUwLmpwZw==.jpg",
+      "thumbnail": "https://img2.luminarypodcasts.com/v1/podcast/bd37ccac-cea9-4c80-b5fe-c55a5f3d177d/thumbnail/h_360,w_360/image/s--oKRDHA4g--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NTI2MzYzOTA1MDg3OTUtSHlwZXItdGhldGljYWwgVGlsZSAzMDAweDMwMDAuanBn.jpg",
+      "wide": "https://img2.luminarypodcasts.com/v1/podcast/bd37ccac-cea9-4c80-b5fe-c55a5f3d177d/wide/h_140,w_225/image/s--iecI6lCJ--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NTI2NDU3NTczMTgzNTItSHlwZXItdGhldGljYWwgV2lkZSAzMTUweDE5NjAuanBn.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "FilmNation Entertainment in association with Transmitter Media",
+    "publisherId": "3ae9aab6-79ed-4803-8c95-9799e818e857",
+    "mediaType": "podcast",
+    "description": "The future is full of epic “what ifs”: What if a hostile attack took down our nation’s power grid? What if we could read minds? What if the supervolcano at Yellowstone erupted? In a brand new anthology podcast from FilmNation Entertainment, the producers that brought you unforgettable movies like \"Arrival\" and \"The Big Sick\", we take you into these hypothetical, near-future worlds using the power of story. Each episode takes us on a science fiction journey into these not-so-normal scenarios, through the viewpoint of very normal people. We ground these fictional stories in real science from actual scientists to excite your imagination about the world, both beautiful and terrifying, that awaits us.",
+    "categoryId": "4fb6e6ed-d6ef-4d04-878b-40942df8d241",
+    "categoryName": "Performing Arts",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "c54380f8-7c5d-476f-bd45-e696cb1d0a65",
+    "title": "Poetics with Omari Hardwick",
+    "images": {
+      "default": "https://img4.luminarypodcasts.com/v1/podcast/c54380f8-7c5d-476f-bd45-e696cb1d0a65/default/h_500,w_500/image/s--yxqPyEvC--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL2w1RTMxVFhrbW1QNHE3Y19aMy1HSUVrLWh4QUluNHY2TjBDaUZhSmtjVWcvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9kNzIzYzYwOC00NDExLTExZTktOTZlNy04ZjYyMDdiMzFjNDAvaW1hZ2UvdXBsb2Fkc18yRjE1ODc3NjE2MjE4NDUtZGxiczhlYzZnZW4tMmNhMDFlN2M5OWMyYTc3MmY2YTM0YWMwMjk1MTI5NWJfMkZQb2V0aWNzJTJCVGlsZSUyQjMwMDB4MzAwMC5qcGc=.jpg",
+      "featured": "https://img4.luminarypodcasts.com/v1/podcast/c54380f8-7c5d-476f-bd45-e696cb1d0a65/featured/h_430,w_720/image/s--5tV0DIF6--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjE2MDQ1MjgzOTMxNjMtUG9ldGljcyBGZWF0dXJlZCAzNjAweDIxNTAuanBn.jpg",
+      "thumbnail": "https://img4.luminarypodcasts.com/v1/podcast/c54380f8-7c5d-476f-bd45-e696cb1d0a65/thumbnail/h_360,w_360/image/s--3uPbUFvp--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjE1ODY2ODk5MzI1MDctUG9ldGljcyBUaWxlIDMwMDB4MzAwMC5qcGc=.jpg",
+      "wide": "https://img4.luminarypodcasts.com/v1/podcast/c54380f8-7c5d-476f-bd45-e696cb1d0a65/wide/h_140,w_225/image/s--nRN_EYuW--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjE1OTYxOTIzNjkwNTMtUG9ldGljcyBXaWRlIDMxNTB4MTk2MC5qcGc=.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Omari Hardwick",
+    "publisherId": "db2bbe71-4a1d-4a24-a384-57c63b54ea31",
+    "mediaType": "podcast",
+    "description": "Exclusively on Luminary: Omari Hardwick, star of the hit series Power, presents Poetics, a new podcast that invites you inside the minds and lyrics of the biggest names in hip hop and the culture. Every show, Omari invites his guests to share an original poem or verse, before diving deep into the stories and history that give every word its meaning. This is a podcast that doesn’t just discuss the power of poetry… it makes it. Season 1 features Wyclef Jean, T.I., Method Man, and more.",
+    "categoryId": "c87f998e-9adb-406c-8782-737ec3121a41",
+    "categoryName": "Music",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "13bb1e9c-0316-4210-836f-4eba7fe7161d",
+    "title": "LGBTQ&A: The Luminary Episodes",
+    "images": {
+      "default": "https://img1.luminarypodcasts.com/v1/podcast/13bb1e9c-0316-4210-836f-4eba7fe7161d/default/h_500,w_500/image/s--Q7mryW_J--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtLzhneW5FcGtyb3hzTnBQcEJyRWM3amR6SkF6RDJTYU01bV9BSERiUjVtMncvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy84N2Y2MjEzYy01MWExLTExZTktYTNkNC1hZjVjMjEyYTRmMjEvaW1hZ2UvdXBsb2Fkc18yRjE1OTIzNDgxMDc2MjAtYmVuMTA2aTEzcC1lZGIwNTNlMGY3ZDBiY2RiODk5ODg5MGQ3NmI3ZWYzOV8yRkxHQlRRXzI2QV9MdW1pbmFyeV9UaF8zMDAweDMwMDAuanBn.jpg",
+      "featured": "https://img1.luminarypodcasts.com/v1/podcast/13bb1e9c-0316-4210-836f-4eba7fe7161d/featured/h_430,w_720/image/s--4_Rha-qP--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1OTIzNDgxMzM4NjMzMzQzNzAtTEdCVFEmQV9MdW1pbmFyeV9GZWF0dXJlZF83MjAuanBn.jpg",
+      "thumbnail": "https://img1.luminarypodcasts.com/v1/podcast/13bb1e9c-0316-4210-836f-4eba7fe7161d/thumbnail/h_360,w_360/image/s--JlsNma02--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1OTIzNDgxNDI5NTE4MjExNDktTEdCVFEmQV9MdW1pbmFyeV9UaF8zMDAweDMwMDAuanBn.jpg",
+      "wide": "https://img1.luminarypodcasts.com/v1/podcast/13bb1e9c-0316-4210-836f-4eba7fe7161d/wide/h_140,w_225/image/s--2773ChGl--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1OTI1MDMwODQ5MjEwMDc2MzYtTEdCVFEmQV9MdW1pbmFyeV9XaWRlX3gyLnBuZw==.png"
+    },
+    "isExclusive": true,
+    "publisherName": "Jeffrey Masters / The Advocate",
+    "publisherId": "c3087954-d873-44f2-9a08-900a58ca6746",
+    "mediaType": "podcast",
+    "description": "Hosted by Jeffrey Masters of The Advocate, LGBTQ&A documents modern queer and trans history. These weekly interviews go beyond transition and coming out stories, highlighting each guest’s defining moments and proudest accomplishments. For the latest episodes of LGBTQ&A, visit: https://luminary.link/5rmNLpr5m7",
+    "categoryId": "975dc81b-35f1-489b-ba6f-37b35945cc7d",
+    "categoryName": "Sexuality",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "c5c8654f-f00a-48db-b1e8-5e911bee9829",
+    "title": "Players' Tribune: The Podcast",
+    "images": {
+      "default": "https://img2.luminarypodcasts.com/v1/podcast/c5c8654f-f00a-48db-b1e8-5e911bee9829/default/h_500,w_500/image/s--dmTtL8J8--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL3ZlRTVmbHdiRUxHTFZWNEpnbi1GYmFidDhnWTNYUGlPaWltejBUWDNTX0UvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9kOTkyZmMyNC00MWY1LTExZTktYjg2Yy04N2EyMjExMWU1N2UvaW1hZ2UvdXBsb2Fkc18yRjE1ODc3NjEyOTIzNjctc2VuYTZwbXM5a2ctZmE5YTgwNjRiZmU4NDdmZDU0ZjQwY2Y5ZWE2MDhkMzdfMkZQbGF5ZXJzVHJpYnVuZV9TaG93QXJ0XzMwMDB4MzAwMC5wbmc=.png",
+      "featured": "https://img2.luminarypodcasts.com/v1/podcast/c5c8654f-f00a-48db-b1e8-5e911bee9829/featured/h_430,w_720/image/s--BZAD4903--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjEzNDM4NTIwNzU1MDAtVGhlUGxheWVyc1RyaWJ1bmVfRmVhdHVyZWRfMzYwMHgyMTUwLnBuZw==.png",
+      "thumbnail": "https://img2.luminarypodcasts.com/v1/podcast/c5c8654f-f00a-48db-b1e8-5e911bee9829/thumbnail/h_360,w_360/image/s--TbKPPl8U--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjEzMjM0MjMxMzY1NDYtUGxheWVyc1RyaWJ1bmVfU2hvd0FydF8zMDAweDMwMDAucG5n.png",
+      "wide": "https://img2.luminarypodcasts.com/v1/podcast/c5c8654f-f00a-48db-b1e8-5e911bee9829/wide/h_140,w_225/image/s--VQBTKZHA--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjEzMzMxMzQ1MDYzOTYtUGxheWVyc1RyaWJ1bmVfV2lkZV8zMTUweDE5NjAucG5n.png"
+    },
+    "isExclusive": true,
+    "publisherName": "The Players' Tribune",
+    "publisherId": "83a53ce8-bccc-40e5-b881-78cf5b0e4721",
+    "mediaType": "podcast",
+    "description": "Exclusively on Luminary--new episodes every Wednesday. The Players’ Tribune disrupts the conventional approach to athlete stories, focusing not only on players like Kobe Bryant and Stephen Curry but on the scores of athletes whose wins and losses have gone unnoticed. Now, TPT’s groundbreaking approach to storytelling is about to make a mark on podcasting.",
+    "categoryId": "1ee09c16-4aeb-4d8f-9f31-89a5d5289fc7",
+    "categoryName": "Sports & Recreation",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "51a1794e-2a84-4ff8-b42e-55451f729dcb",
+    "title": "The AM Archives",
+    "images": {
+      "default": "https://img4.luminarypodcasts.com/v1/podcast/51a1794e-2a84-4ff8-b42e-55451f729dcb/default/h_500,w_500/image/s--XQ9LOm86--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL2xoc2ZTcGJKVzB1S0VweHpURzluSTd4M1U4QTR5VTlJN2pnQjNKVmRXZzAvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9lNTUyNWJjNC01MGM2LTExZTktOTI5My05MzlhMGRjZTgxYzQvaW1hZ2UvdXBsb2Fkc18yRjE1ODc3NjQ5MDg2MjItOWNwb2loNXhwemQtNzQ1NTExYjU1NjUwYTJhNjM1NTc3ZGIyMmU3ZDk4ZTNfMkZBTSUyQmFyY2hpdmVzJTJCVGlsZSUyQjMwMDB4MzAwMC5qcGc=.jpg",
+      "featured": "https://img4.luminarypodcasts.com/v1/podcast/51a1794e-2a84-4ff8-b42e-55451f729dcb/featured/h_430,w_720/image/s--OQN21XIY--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjQ5NDY2MTkxODQ5NDAtQU0gYXJjaGl2ZXMgRmVhdHVyZWQgMzYwMHgyMTUwLmpwZw==.jpg",
+      "thumbnail": "https://img4.luminarypodcasts.com/v1/podcast/51a1794e-2a84-4ff8-b42e-55451f729dcb/thumbnail/h_360,w_360/image/s--bGjUJzPu--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjQ5Mjg4MzU3NzI2MTktQU0gYXJjaGl2ZXMgVGlsZSAzMDAweDMwMDAuanBn.jpg",
+      "wide": "https://img4.luminarypodcasts.com/v1/podcast/51a1794e-2a84-4ff8-b42e-55451f729dcb/wide/h_140,w_225/image/s--39cn52K7--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjQ5MzgzNzQ2ODU5NTAtQU0gYXJjaGl2ZXMgV2lkZSAzMTUweDE5NjAuanBn.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Lauren Shippen & Atypical Artists",
+    "publisherId": "c6a825c4-32d8-482d-a8b5-a9385da5bc54",
+    "mediaType": "podcast",
+    "description": "Exclusively on Luminary. This sci-fi series picks up where hit podcast The Bright Sessions left off. The original series followed a group of therapy patients with supernatural abilities as they uncovered the secrets of their therapist, Dr. Bright. Six months after The Bright Sessions concludes we begin again with The AM Archives, a Luminary exclusive that tracks the mysterious Dr. Bright as she tries to reform the institution that once betrayed her. Along with time traveler Sam Barnes and ex-enemy Owen Green, Dr. Bright helps “Atypicals” learn how to use their abilities. But in an effort to defang The Atypical Monitors, the trio comes face to face with a patient unlike any other…",
+    "categoryId": "4fb6e6ed-d6ef-4d04-878b-40942df8d241",
+    "categoryName": "Performing Arts",
+    "hasFreeEpisodes": true,
+    "playSequence": "serial"
+  },
+  {
+    "id": "ab4fffb8-7835-4482-8b48-c9898818768f",
+    "title": "Anthem: Homunculus",
+    "images": {
+      "default": "https://img3.luminarypodcasts.com/v1/podcast/ab4fffb8-7835-4482-8b48-c9898818768f/default/h_500,w_500/image/s--xQ1IS3So--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL1RMaEVfTVpFcEpsY29FRGZuMjhFMHl0NE9XcW5OQTZCQy1fenAxejk2RTQvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy8zNThmNWVmMi00MTE4LTExZTktODUzYi03ZmVhYWVhZmI5ZWIvaW1hZ2UvdXBsb2Fkc18yRjE1ODc3NDg3MDc2MjgtMDNzMXp5ejJmbnR5LTQ1MDcxNjFkNTQwZDQ4NjlhNGI5NWM5YmU5YmFlMDdjXzJGQW50aGVtJTJCVGlsZSUyQjMwMDB4MzAwMC5qcGc=.jpg",
+      "featured": "https://img3.luminarypodcasts.com/v1/podcast/ab4fffb8-7835-4482-8b48-c9898818768f/featured/h_430,w_720/image/s--X5xPN5W6--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NDg3NDUwOTI3OTA3NjItQW50aGVtIEZlYXR1cmVkIDM2MDB4MjE1MC5qcGc=.jpg",
+      "thumbnail": "https://img3.luminarypodcasts.com/v1/podcast/ab4fffb8-7835-4482-8b48-c9898818768f/thumbnail/h_360,w_360/image/s--B8dLMXPg--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NDg3Mjg3Mzc3NTUzMTItQW50aGVtIFRpbGUgMzAwMHgzMDAwLmpwZw==.jpg",
+      "wide": "https://img3.luminarypodcasts.com/v1/podcast/ab4fffb8-7835-4482-8b48-c9898818768f/wide/h_140,w_225/image/s--xPyM0s-j--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NDg3MzcyODA1Mjc3NzItQW50aGVtIFdpZGUgMzE1MHgxOTYwLmpwZw==.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "John Cameron Mitchell and Bryan Weller + Topic",
+    "publisherId": "9e3b1f13-634a-4e5d-b3e4-02f225f3c325",
+    "mediaType": "podcast",
+    "description": "From the creator of Hedwig & the Angry Inch comes the story of broke, failed artist Ceann Mackay (John Cameron Mitchell) as he launches an app-based “tumor telethon” to crowdfund his survival. Cynthia Erivo, Glenn Close, Nakhane and Patti LuPone co-star in a darkly hilarious musical retelling of Ceann's life as he realizes what’s killing him may be the very thing that saves us all.",
+    "categoryId": "4fb6e6ed-d6ef-4d04-878b-40942df8d241",
+    "categoryName": "Performing Arts",
+    "hasFreeEpisodes": true,
+    "playSequence": "serial"
+  },
+  {
+    "id": "875cf28b-1ef8-48d7-92c6-6829bce56e3b",
+    "title": "Note to Self",
+    "images": {
+      "default": "https://img4.luminarypodcasts.com/v1/podcast/875cf28b-1ef8-48d7-92c6-6829bce56e3b/default/h_500,w_500/image/s--huAuglZ7--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL2lwbWhHRFk4X29KRkV3dzBwNWtGOWNCZjRrcTRxLVkzU040ZFMyRVRqdFEvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy84ZTZhOTExOC01NTlmLTExZTktOWM3MC0zZjQzNGY1MWFhZmMvaW1hZ2UvdXBsb2Fkc18yRjE1ODc3NjExODUwMTQtNWFuY3dpaXYzZHUtNmVjODA3ZGE3NTA4ZGExODNmNzEyMDlkMTRlN2I3ZTNfMkZOb3RlJTJCdG8lMkJzZWxmJTJCVGlsZSUyQjMwMDB4MzAwMC5qcGc=.jpg",
+      "featured": "https://img4.luminarypodcasts.com/v1/podcast/875cf28b-1ef8-48d7-92c6-6829bce56e3b/featured/h_430,w_720/image/s--s8Luckqb--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjEyMTgwMDU0NzAwNTYtTm90ZSB0byBzZWxmIEZlYXR1cmVkIDM2MDB4MjE1MC5qcGc=.jpg",
+      "thumbnail": "https://img4.luminarypodcasts.com/v1/podcast/875cf28b-1ef8-48d7-92c6-6829bce56e3b/thumbnail/h_360,w_360/image/s--7S5cQ8jQ--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjExOTk5OTg3NDgyNjctTm90ZSB0byBzZWxmIFRpbGUgMzAwMHgzMDAwLmpwZw==.jpg",
+      "wide": "https://img4.luminarypodcasts.com/v1/podcast/875cf28b-1ef8-48d7-92c6-6829bce56e3b/wide/h_140,w_225/image/s--hffVF4wc--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NjEyMDk4NjkyNjk1NDctTm90ZSB0byBzZWxmIFdpZGUgMzE1MHgxOTYwLmpwZw==.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "WNYC Studios",
+    "publisherId": "c00469c2-bcaa-4e66-bab9-f9bb7222ec9a",
+    "mediaType": "podcast",
+    "description": "Exclusively on Luminary--new episodes every Monday. Your guide to an accelerating world.",
+    "categoryId": "9cc6ec59-fddb-4d2f-a3e6-17ee55a9e9a4",
+    "categoryName": "Technology",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "09891360-3749-4049-837c-c10f67b1fa05",
+    "title": "The Black List Podcast",
+    "images": {
+      "default": "https://img1.luminarypodcasts.com/v1/podcast/09891360-3749-4049-837c-c10f67b1fa05/default/h_500,w_500/image/s--fA-7Trl5--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL1ZhMW5oVFhZcExjOGxzcjVnUTh4b2pIR0xiSXY0ZG5XWENPXzVWR0ZYdncvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9hYzYwYmVkMC01OTdkLTExZWEtOGY2YS03Mzg4YTY4Y2FlZmIvaW1hZ2UvdXBsb2Fkc18yRjE1ODM1MjUwMTU4MTgtNW9mZXZlNWJ3dW4tNjQzNzdhYzUxOGM1M2VhY2YyYTg0NGQ3NmI0ODk3MWFfMkZUaGVCbGFja0xpc3Rfc2hvd3RpbGVfMzAwMHgzMDAwLmpwZw==.jpg",
+      "featured": "https://img1.luminarypodcasts.com/v1/podcast/09891360-3749-4049-837c-c10f67b1fa05/featured/h_430,w_720/image/s--RXtZV37I--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODk1NTUxNjAwMjM4NDM1MTktVGhlQmxhY2tMaXN0X2ZlYXR1cmVkXzM2MDB4MjE1MC5qcGc=.jpg",
+      "thumbnail": "https://img1.luminarypodcasts.com/v1/podcast/09891360-3749-4049-837c-c10f67b1fa05/thumbnail/h_360,w_360/image/s--uirHBlmE--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL1ZhMW5oVFhZcExjOGxzcjVnUTh4b2pIR0xiSXY0ZG5XWENPXzVWR0ZYdncvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9hYzYwYmVkMC01OTdkLTExZWEtOGY2YS03Mzg4YTY4Y2FlZmIvaW1hZ2UvdXBsb2Fkc18yRjE1ODM1MjUwMTU4MTgtNW9mZXZlNWJ3dW4tNjQzNzdhYzUxOGM1M2VhY2YyYTg0NGQ3NmI0ODk3MWFfMkZUaGVCbGFja0xpc3Rfc2hvd3RpbGVfMzAwMHgzMDAwLmpwZw==.jpg",
+      "wide": "https://img1.luminarypodcasts.com/v1/podcast/09891360-3749-4049-837c-c10f67b1fa05/wide/h_140,w_225/image/s--0j10Ez1L--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODQwNDAxNDM2OTAyMTg3ODUtMjAwMzE4X0JsYWNrbGlzdF9TaG93X0FydF9SZXNpemVfU2hvd1dpZGVfcmF0aW80NXgyOF8yMjUweDE0MDAuanBn.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Ninth Planet Audio & The Black List",
+    "publisherId": "76c2fd0b-e42c-426f-a7cc-9e8cab5af599",
+    "mediaType": "podcast",
+    "description": "The Black List founder Franklin Leonard talks movies with people who love them and people who make them. Listen as he and Black List Director of Community Kate Hagen speak with filmmakers, producers, and creators of all kinds, hosting table reads and revisiting highly regarded films from the Black List itself.",
+    "categoryId": "2f95cd51-713f-478b-9d93-71b1dcd71a8a",
+    "categoryName": "TV & Film",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "29a522a2-600d-4382-9455-37f2ad3b7ec9",
+    "title": "Lies We Tell",
+    "images": {
+      "default": "https://img4.luminarypodcasts.com/v1/podcast/29a522a2-600d-4382-9455-37f2ad3b7ec9/default/h_500,w_500/image/s--vwo-EExV--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL25NSU9fVVg5eUY2S3lsZ3NQQVA5NVdxbzlJUUlyaTM2X2NyLWdGZGxZWHMvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9kOGY5NmU0NC01OTc2LTExZWEtODk4ZS1mYjg5NGY1Y2E0ODAvaW1hZ2UvdXBsb2Fkc18yRjE1ODI4Mjc0OTExMTctMHhrdXh4YzlubzFtLTZkOWE4ZGE1ZWQwYjY2ODQwNjE4ZmQwY2NjYWM0NGVmXzJGMjAwMzA5X0xpZXNXZVRlbGxDYW1wYWlnbl9TaG93X0FydF9SZXNpemVfTWVnYXBob25lXzF4MS5wbmc=.png",
+      "thumbnail": "https://img4.luminarypodcasts.com/v1/podcast/29a522a2-600d-4382-9455-37f2ad3b7ec9/thumbnail/h_360,w_360/image/s--o7AQ9YZK--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL25NSU9fVVg5eUY2S3lsZ3NQQVA5NVdxbzlJUUlyaTM2X2NyLWdGZGxZWHMvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9kOGY5NmU0NC01OTc2LTExZWEtODk4ZS1mYjg5NGY1Y2E0ODAvaW1hZ2UvdXBsb2Fkc18yRjE1ODI4Mjc0OTExMTctMHhrdXh4YzlubzFtLTZkOWE4ZGE1ZWQwYjY2ODQwNjE4ZmQwY2NjYWM0NGVmXzJGMjAwMzA5X0xpZXNXZVRlbGxDYW1wYWlnbl9TaG93X0FydF9SZXNpemVfTWVnYXBob25lXzF4MS5wbmc=.png"
+    },
+    "isExclusive": true,
+    "publisherName": "Jigsaw Productions",
+    "publisherId": "ee436d0d-8faa-492a-8d8a-4b5a3601da91",
+    "mediaType": "podcast",
+    "description": "Academy Award-winning filmmaker Alex Gibney and former Radiolab executive producer Ellen Horne uncover basic truths about human nature — by untangling twisted true stories set in motion by lies.",
+    "categoryId": "422aee5c-5398-441a-845e-c96c40627c8f",
+    "categoryName": "Society & Culture",
+    "hasFreeEpisodes": true,
+    "playSequence": "episodic"
+  },
+  {
+    "id": "f86e99db-ed9a-4642-9942-d7a6c4255138",
+    "title": "Frontier Tween",
+    "images": {
+      "default": "https://img3.luminarypodcasts.com/v1/podcast/f86e99db-ed9a-4642-9942-d7a6c4255138/default/h_500,w_500/image/s--j3qivIvP--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL1pydTQteVRUOGswS1l5SEItY24yM2lOcm54QjcyNGpSanBUVDJITDU1eGcvcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy9iMzI5MjIyZS04YmMwLTExZTktYTAxNi0yN2MyZjYzMzRmMmYvaW1hZ2UvdXBsb2Fkc18yRjE1ODc3NDc3NTU3NDItNHdxcm5meWpwOGktNGJiYzA1MTMwMTdhN2JmOWMzYjg1MDE3OWZiMGZlZDZfMkZGcm9udGllciUyQlR3ZWVuJTJCVGlsZSUyQjMwMDB4MzAwMC5qcGc=.jpg",
+      "featured": "https://img3.luminarypodcasts.com/v1/podcast/f86e99db-ed9a-4642-9942-d7a6c4255138/featured/h_430,w_720/image/s--W9Xj17u9--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NDc3OTMwMDc1NzI0MzMtRnJvbnRpZXIgVHdlZW4gRmVhdHVyZWQgMzYwMHgyMTUwLmpwZw==.jpg",
+      "thumbnail": "https://img3.luminarypodcasts.com/v1/podcast/f86e99db-ed9a-4642-9942-d7a6c4255138/thumbnail/h_360,w_360/image/s--RN4kypUX--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NDc4MDM2NjA3Njc5OTMtRnJvbnRpZXIgVHdlZW4gVGlsZSAzMDAweDMwMDAuanBn.jpg",
+      "wide": "https://img3.luminarypodcasts.com/v1/podcast/f86e99db-ed9a-4642-9942-d7a6c4255138/wide/h_140,w_225/image/s--Z9zQb_E1--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1ODc3NDc3ODM1NDU2OTYzODEtRnJvbnRpZXIgVHdlZW4gV2lkZSAzMTUweDE5NjAuanBn.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "Team Coco",
+    "publisherId": "6cce3e2c-4f3d-44b5-91b0-4f02b32551b0",
+    "mediaType": "podcast",
+    "description": "Tilly Mulch’s life on the untamed prairie is a constant adventure. From helping her God-fearing Ma and her poor sick Pa on the farm, to scheming with her frontier friends Billy and Nell, Tilly hardly has a moment to work on her life’s passion: her writing. Will Tilly win the poetry contest and get to travel to the city to see all the two-story buildings? Will Pa’s case of the shrivels do him in? Will Nell finally earn her Knot Hero badge from the Frontiersman Club? Find out this season on Frontier Tween!",
+    "categoryId": "4fb6e6ed-d6ef-4d04-878b-40942df8d241",
+    "categoryName": "Performing Arts",
+    "hasFreeEpisodes": true,
+    "playSequence": "serial"
+  },
+  {
+    "id": "5e6e3513-f7b0-4fac-8a2e-a431409cbca4",
+    "title": "Murder on the Towpath",
+    "images": {
+      "default": "https://img3.luminarypodcasts.com/v1/podcast/5e6e3513-f7b0-4fac-8a2e-a431409cbca4/default/h_500,w_500/image/s--G1Ienm4V--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL2lZSWtldDlKd2tJVFRhMXBSeGFGajdlTnF4czhkNkRRZENRUkhteWZ6UW8vcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy8yZTkyYzlmYS05NmNhLTExZWEtYmRlYS0yMzMzMjliYjhmYjUvaW1hZ2UvdXBsb2Fkc18yRjE1ODk1NjA1NDQ3MjYtYjkxN3Bqa29udS01ODI0ODJmZjc4MzIwY2RjNjM0ZWIwNzRiOTJmNzlmNF8yRk11cmRlck9uVGhlVG93cGF0aF90aWxlXzMwMDB4MzAwMC5qcGc=.jpg",
+      "featured": "https://img3.luminarypodcasts.com/v1/podcast/5e6e3513-f7b0-4fac-8a2e-a431409cbca4/featured/h_430,w_720/image/s--K35tTa6D--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1OTA0MDkyNzI0OTI0MTA2NDktTXVyZGVyT25UaGVUb3dwYXRoX2ZlYXR1cmVkXzM2MDB4MjE1MC5qcGc=.jpg",
+      "thumbnail": "https://img3.luminarypodcasts.com/v1/podcast/5e6e3513-f7b0-4fac-8a2e-a431409cbca4/thumbnail/h_360,w_360/image/s--2lkFtabH--/aHR0cHM6Ly9pbWFnZXMubWVnYXBob25lLmZtL2lZSWtldDlKd2tJVFRhMXBSeGFGajdlTnF4czhkNkRRZENRUkhteWZ6UW8vcGxhaW4vczM6Ly9tZWdhcGhvbmUtcHJvZC9wb2RjYXN0cy8yZTkyYzlmYS05NmNhLTExZWEtYmRlYS0yMzMzMjliYjhmYjUvaW1hZ2UvdXBsb2Fkc18yRjE1ODk1NjA1NDQ3MjYtYjkxN3Bqa29udS01ODI0ODJmZjc4MzIwY2RjNjM0ZWIwNzRiOTJmNzlmNF8yRk11cmRlck9uVGhlVG93cGF0aF90aWxlXzMwMDB4MzAwMC5qcGc=.jpg",
+      "wide": "https://img3.luminarypodcasts.com/v1/podcast/5e6e3513-f7b0-4fac-8a2e-a431409cbca4/wide/h_140,w_225/image/s--7Gw4goWg--/aHR0cHM6Ly9pbWFnZXMubHVtaW5hcnkuYXVkaW8vaW1hZ2VzLXVzLWVhc3QtMi5wcm9kLmx1bWluYXJ5LmF1ZGlvLzE1OTA0MDkyNjAzMzQyNzA0NTYtTXVyZGVyT25UaGVUb3dwYXRoX3dpZGVfMzE1MHgxOTYwLmpwZw==.jpg"
+    },
+    "isExclusive": true,
+    "publisherName": "FilmNation Entertainment in association with Neon Hum Media",
+    "publisherId": "64b0b7e5-bd85-4fbd-b6f8-00aaef2487e8",
+    "mediaType": "podcast",
+    "description": "Soledad O'Brien takes us back to 1964 when a well-connected white artist was murdered, a black man stood accused, and a barrier-breaking civil rights lawyer rose to his defense—in what would become one of the most fascinating unsolved cases in US history.",
+    "categoryId": "bd178e02-1ae8-43e1-a2c8-c66ef8c1e7dd",
+    "categoryName": "History",
+    "hasFreeEpisodes": true,
+    "playSequence": "serial"
+  }
+]
