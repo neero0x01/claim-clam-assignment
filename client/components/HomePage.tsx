@@ -13,7 +13,7 @@ const HomePage = () => {
     title: '',
     categoryName: '',
     page: 1,
-    limit: 10,
+    limit: 100,
   });
 
   const [debouncedParams, setDebouncedParams] = useState(queryParams);
@@ -35,7 +35,7 @@ const HomePage = () => {
     return url.toString();
   }, []);
 
-  
+
   const fetchPodcasts = useCallback(async (params: IHomePageQueryParams) => {
     const url = constructUrl(params);
 
