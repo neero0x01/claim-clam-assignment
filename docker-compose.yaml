@@ -7,12 +7,7 @@ services:
     ports:
       - "3001:3001"
     environment:
-      - NODE_ENV=development
-    volumes:
-      - ./server:/usr/src/app
-      - /usr/src/app/node_modules
-    command: npm run start:dev
-
+      - NODE_ENV=production
   frontend:
     build:
       context: ./client
@@ -22,8 +17,4 @@ services:
     depends_on:
       - backend
     environment:
-      - NEXT_PUBLIC_API_URL=http://backend:3001
-    volumes:
-      - ./client:/app
-      - /app/node_modules
-    command: npm run dev
+      - NEXT_PUBLIC_API_URL=http://backend:3000
