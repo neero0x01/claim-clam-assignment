@@ -1,5 +1,6 @@
 import React from 'react';
 import { Headphones } from 'lucide-react';
+import { IGeneralWrapper, IPodcastInfoCard } from '@/utils/interfaces';
 
 // Card component
 const Card = ({ className, children }: IGeneralWrapper) => (
