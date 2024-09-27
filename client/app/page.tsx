@@ -1,12 +1,14 @@
-import Container from '@/components/Container';
+'use client';
+
+import HomePage from '@/components/HomePage';
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
+
+const queryClient = new QueryClient();
 
 export default function Home() {
   return (
-    <div>
-      <h1>hi</h1>
-      <Container>
-        <h1>Place holder for rendering list items</h1>
-      </Container>
-    </div>
+    <QueryClientProvider client={queryClient}>
+      <HomePage />
+    </QueryClientProvider>
   );
 }

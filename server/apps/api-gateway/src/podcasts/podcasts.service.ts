@@ -37,12 +37,22 @@ export class PodcastsService {
     }
 
     return firstValueFrom(
-      this.httpService.get(url, { params: queryParams }).pipe(map((response) => response.data),
+      this.httpService.get(url, { params: queryParams }).pipe(
+        map((response) => response.data),
         catchError((error: AxiosError) => {
-          throw new HttpException(
-            'Failed to fetch podcasts',
-            HttpStatus.INTERNAL_SERVER_ERROR,
-          );
+          if (error.response) {
+            console.log(error.response.statusText); // Log statusText if available
+            throw new HttpException(
+              error.response.statusText,
+              error.response.status || HttpStatus.NOT_FOUND,
+            );
+          } else {
+            console.log(error.message); // Log a generic message in case response is not available
+            throw new HttpException(
+              'An error occurred',
+              HttpStatus.INTERNAL_SERVER_ERROR,
+            );
+          }
         }),
       ),
     );
