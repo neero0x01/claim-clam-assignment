@@ -35,10 +35,8 @@ const HomePage = () => {
     return url.toString();
   }, []);
 
-  // eslint-disable-next-line @typescript-eslint/ban-ts-comment
-  // @ts-expect-error
-  const fetchPodcasts = useCallback(async ({ queryKey }) => {
-    const [params] = queryKey;
+  
+  const fetchPodcasts = useCallback(async (params: IHomePageQueryParams) => {
     const url = constructUrl(params);
 
     const response = await fetch(url);
@@ -49,8 +47,8 @@ const HomePage = () => {
   }, [constructUrl]);
 
   const { isPending, error, data, isFetching } = useQuery<IPodcast[]>({
-    queryKey: ['podcastsData', debouncedParams],
-    queryFn: fetchPodcasts,
+    queryKey: ['podcastsData', debouncedParams], // Correct queryKey format
+    queryFn: () => fetchPodcasts(debouncedParams), // Pass the second element, which is the debouncedParams object
   });
 
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {

@@ -1,5 +1,4 @@
 // Type for Image URLs
-import { QueryFunctionContext } from '@tanstack/query-core';
 
 interface ImageUrls {
   default: string;
@@ -44,11 +43,3 @@ export interface IHomePageQueryParams {
   page: number,
   limit: number,
 }
-
-export const validateToken = async ({ queryKey }: QueryFunctionContext<[string, string | null | undefined]>) => {
-
-};
-
-export type FetchPodcastsFunction = (context: {
-  queryKey: IHomePageQueryParams
-}) => Promise<IPodcast[]>;
